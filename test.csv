@@ -1,0 +1,1001 @@
+Unnamed: 0,Strassenklasse,Unfalldatum,Alter,Unfallklasse,Lichtverhältnisse,Verletzte Personen,Anzahl Fahrzeuge,Bodenbeschaffenheit,Geschlecht,Zeit (24h),Fahrzeugtyp,Wetterlage,Monat
+15221,Bundesstrasse,2018-12-08 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1100,Auto,Gut,12
+15222,Bundesstrasse,2010-05-29 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,1710,Auto,Gut,5
+15223,nicht klassifiziert,2009-03-04 00:00:00,63,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1500,Bus,Gut,3
+15224,nicht klassifiziert,2009-05-11 00:00:00,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1745,Auto,Gut,5
+15225,Bundesstrasse,2018-04-05 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1900,Auto,Gut,4
+15226,nicht klassifiziert,2018-06-17 00:00:00,9,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1110,Fahrrad,Gut,6
+15227,Landesstrasse,2018-12-31 00:00:00,27,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,1705,Auto,Andere,12
+15228,nicht klassifiziert,2018-09-14 00:00:00,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,2114,Taxi,Gut,9
+15229,nicht klassifiziert,2018-02-08 00:00:00,24,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1430,Auto,Gut,2
+15230,nicht klassifiziert,2018-11-15 00:00:00,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,2330,Auto,Gut,11
+15231,Bundesstrasse,2018-02-11 00:00:00,18,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und nicht beleuchtet,1,2,nass / feucht,männlich,2042,Mottorrad (50cc),Gut,2
+15232,Bundesstrasse,2009-05-29 00:00:00,17,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1600,Auto,Gut,5
+15233,Kraftfahrzeugstrasse,2018-04-02 00:00:00,39,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1250,Auto,Gut,4
+15234,Bundesstrasse,2012-10-12 00:00:00,25,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,3,trocken,männlich,1730,Auto,Gut,10
+15235,nicht klassifiziert,2018-04-22 00:00:00,18,Fahrer,Dunkelheit: keine Strassenbeleuchtung,2,1,trocken,weiblich,2145,Auto,Gut,4
+15236,Bundesstrasse,2018-06-05 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1340,Taxi,Gut,6
+15237,Bundesstrasse,2018-02-24 00:00:00,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,3,trocken,weiblich,1605,Auto,Gut,2
+15238,nicht klassifiziert,2012-10-29 00:00:00,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,1635,Fahrrad,Gut,10
+15239,Bundesstrasse,2018-02-08 00:00:00,40,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,2,trocken,männlich,1755,Fahrrad,Gut,2
+15240,Bundesstrasse,2011-03-08 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1020,Auto,Gut,3
+15241,nicht klassifiziert,2018-05-24 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1345,Auto,Regen,5
+15242,nicht klassifiziert,2018-07-13 00:00:00,11,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1907,Fahrrad,Gut,7
+15243,nicht klassifiziert,2018-08-25 00:00:00,22,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,2145,Auto,Gut,8
+15244,nicht klassifiziert,2009-03-31 00:00:00,35,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,2,nass / feucht,männlich,2350,Taxi,Gut,3
+15245,nicht klassifiziert,2018-10-31 00:00:00,54,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1350,Auto,Gut,10
+15246,Autobahn,2018-06-06 00:00:00,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,3,trocken,männlich,1644,Auto,Gut,6
+15247,Bundesstrasse,2018-04-23 00:00:00,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1100,Auto,Gut,4
+15248,Bundesstrasse,2009-10-12 00:00:00,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1111,Auto,Gut,10
+15249,Autobahn,2011-05-04 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1600,Auto,Gut,5
+15250,nicht klassifiziert,2018-10-30 00:00:00,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1915,Fahrrad,Gut,10
+15251,Bundesstrasse,2018-07-03 00:00:00,69,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,945,Auto,Gut,7
+15252,nicht klassifiziert,2018-06-21 00:00:00,24,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,1715,Auto,Gut,6
+15253,nicht klassifiziert,2018-05-08 00:00:00,65,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1430,Auto,Gut,5
+15254,nicht klassifiziert,2018-06-15 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1600,Auto,Gut,6
+15255,Bundesstrasse,2018-04-20 00:00:00,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1015,Auto,Gut,4
+15256,Bundesstrasse,2018-08-19 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1700,Auto,Gut,8
+15257,nicht klassifiziert,2018-09-22 00:00:00,43,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1110,Auto,Gut,9
+15258,Bundesstrasse,2018-09-30 00:00:00,12,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1500,Auto,Gut,9
+15259,nicht klassifiziert,2018-04-09 00:00:00,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1445,Auto,Gut,4
+15260,Bundesstrasse,2018-07-24 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1634,Auto,Gut,7
+15261,Bundesstrasse,2009-05-26 00:00:00,84,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1407,Bus,Gut,5
+15262,Bundesstrasse,2018-08-03 00:00:00,18,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,1,trocken,männlich,2140,Auto,Gut,8
+15263,Landesstrasse,2018-08-24 00:00:00,23,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,3,trocken,männlich,2240,Auto,Gut,8
+15264,Bundesstrasse,2018-07-16 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,840,Fahrrad,Gut,7
+15265,Bundesstrasse,2018-09-26 00:00:00,1,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,nass / feucht,männlich,1844,Auto,Gut,9
+15266,nicht klassifiziert,2011-03-10 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1700,Mottorrad,Gut,3
+15267,nicht klassifiziert,2018-06-01 00:00:00,10,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1930,Auto,Gut,6
+15268,nicht klassifiziert,2018-09-16 00:00:00,65,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1530,Auto,Gut,9
+15269,Bundesstrasse,2018-10-15 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,610,Mottorrad (50cc),Gut,10
+15270,Landesstrasse,2018-04-27 00:00:00,2,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1710,Bus,Gut,4
+15271,nicht klassifiziert,2018-09-20 00:00:00,12,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1500,Fahrrad,Gut,9
+15272,Autobahn,2018-01-21 00:00:00,27,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,weiblich,1151,Auto,Gut,1
+15273,nicht klassifiziert,2018-08-11 00:00:00,24,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,345,Auto,Gut,8
+15274,nicht klassifiziert,2018-07-20 00:00:00,16,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1230,Auto,Gut,7
+15275,nicht klassifiziert,2012-12-21 00:00:00,12,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1555,Fahrrad,Gut,12
+15276,Bundesstrasse,2018-06-02 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1645,Auto,Gut,6
+15277,Bundesstrasse,2018-06-15 00:00:00,12,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,810,Auto,Gut,6
+15278,nicht klassifiziert,2018-08-25 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1000,Auto,Gut,8
+15279,Bundesstrasse,2018-06-19 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1425,Auto,Gut,6
+15280,nicht klassifiziert,2018-11-22 00:00:00,12,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1654,Auto,Gut,11
+15281,nicht klassifiziert,2018-11-05 00:00:00,20,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1320,Auto,Gut,11
+15282,Kraftfahrzeugstrasse,2018-06-01 00:00:00,28,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,1705,Kleinbus,Gut,6
+15283,nicht klassifiziert,2018-02-06 00:00:00,14,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,6,1,trocken,weiblich,1425,Bus,Gut,2
+15284,nicht klassifiziert,2018-05-19 00:00:00,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1217,Auto,Gut,5
+15285,nicht klassifiziert,2009-10-19 00:00:00,47,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1845,Auto,Gut,10
+15286,Kraftfahrzeugstrasse,2018-11-19 00:00:00,53,Fahrer,Dunkelheit: keine Strassenbeleuchtung,2,4,trocken,männlich,630,Transporter,Gut (starker Wind),11
+15287,nicht klassifiziert,2018-06-16 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,910,Auto,Regen,6
+15288,Bundesstrasse,2018-09-08 00:00:00,8,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1800,Auto,Gut,9
+15289,Bundesstrasse,2018-02-09 00:00:00,33,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,820,Auto,Gut,2
+15290,nicht klassifiziert,2018-04-08 00:00:00,2,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,4,trocken,weiblich,1958,Auto,Gut,4
+15291,Bundesstrasse,2018-05-19 00:00:00,55,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1350,Auto,Gut,5
+15292,nicht klassifiziert,2018-07-18 00:00:00,63,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1335,Transporter,Gut,7
+15293,nicht klassifiziert,2018-09-01 00:00:00,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1740,Mottorrad (500cc),Gut,9
+15294,Bundesstrasse,2009-12-13 00:00:00,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1100,Auto,Gut,12
+15295,Autobahn,2011-03-18 00:00:00,13,Passagier,Dunkelheit: keine Strassenbeleuchtung,3,1,trocken,weiblich,1825,Auto,Gut,3
+15296,Bundesstrasse,2018-05-11 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1550,Fahrrad,Gut,5
+15297,Bundesstrasse,2009-10-25 00:00:00,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1505,Auto,Regen,10
+15298,Bundesstrasse,2018-09-29 00:00:00,29,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1700,Mottorrad (500cc),Gut,9
+15299,Kraftfahrzeugstrasse,2018-09-28 00:00:00,51,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,6,trocken,männlich,841,Auto,Gut,9
+15300,nicht klassifiziert,2018-07-17 00:00:00,81,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1130,Auto,Regen,7
+15301,Landesstrasse,2018-01-09 00:00:00,57,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,805,Fahrrad,Gut,1
+15302,Bundesstrasse,2018-11-08 00:00:00,63,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,755,Auto,Regen (starker Wind),11
+15303,nicht klassifiziert,2018-04-21 00:00:00,19,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,300,Taxi,Gut,4
+15304,Bundesstrasse,2018-05-06 00:00:00,47,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1112,Auto,Gut,5
+15305,Bundesstrasse,2018-06-11 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1441,Mottorrad (500cc),Gut,6
+15306,Landesstrasse,2018-08-07 00:00:00,53,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1615,Bus,Gut,8
+15307,nicht klassifiziert,2018-11-03 00:00:00,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,4,trocken,männlich,1613,Auto,Gut,11
+15308,Bundesstrasse,2018-02-06 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,900,Auto,Gut,2
+15309,Bundesstrasse,2018-04-05 00:00:00,43,Passagier,Dunkelheit: keine Strassenbeleuchtung,4,2,trocken,weiblich,2044,Auto,Gut,4
+15310,Bundesstrasse,2012-05-14 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1555,Fahrrad,Gut,5
+15311,nicht klassifiziert,2018-06-12 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1930,Auto,Regen,6
+15312,nicht klassifiziert,2018-04-02 00:00:00,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1800,Auto,Gut,4
+15313,nicht klassifiziert,2018-09-06 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1150,Auto,Gut,9
+15314,nicht klassifiziert,2018-02-28 00:00:00,35,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,2245,Taxi,Gut,2
+15315,Autobahn,2018-09-26 00:00:00,36,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1332,Auto,Gut,9
+15316,nicht klassifiziert,2018-01-01 00:00:00,34,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,130,Auto,Gut,1
+15317,Bundesstrasse,2018-01-30 00:00:00,35,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,männlich,1915,Auto,Gut,1
+15318,nicht klassifiziert,2011-05-31 00:00:00,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,7,1,trocken,männlich,1315,Bus,Gut,5
+15319,nicht klassifiziert,2011-12-07 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1505,Auto,Gut,12
+15320,nicht klassifiziert,2018-06-15 00:00:00,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,130,Fahrrad,Gut,6
+15321,nicht klassifiziert,2018-02-02 00:00:00,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1515,Andere,Gut,2
+15322,nicht klassifiziert,2009-05-14 00:00:00,16,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1620,Bus,Gut,5
+15323,nicht klassifiziert,2018-09-05 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1303,Auto,Gut,9
+15324,nicht klassifiziert,2010-05-07 00:00:00,66,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1110,Auto,Gut,5
+15325,nicht klassifiziert,2018-08-25 00:00:00,57,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2300,Taxi,Gut,8
+15326,nicht klassifiziert,2018-11-19 00:00:00,14,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1800,Transporter,Gut,11
+15327,nicht klassifiziert,2012-10-02 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Fahrrad,Gut,10
+15328,Bundesstrasse,2018-11-24 00:00:00,68,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1105,Auto,Gut,11
+15329,Landesstrasse,2011-10-15 00:00:00,30,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,3,trocken,männlich,2025,Auto,Gut,10
+15330,nicht klassifiziert,2018-06-02 00:00:00,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,2030,Mottorrad (500cc),Gut,6
+15331,Bundesstrasse,2018-08-27 00:00:00,28,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1810,Auto,Gut,8
+15332,nicht klassifiziert,2010-03-27 00:00:00,24,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2305,Fahrrad,Gut,3
+15333,nicht klassifiziert,2018-11-24 00:00:00,17,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1753,Fahrrad,Gut,11
+15334,nicht klassifiziert,2018-04-18 00:00:00,18,Passagier,Dunkelheit: keine Strassenbeleuchtung,4,2,trocken,männlich,2122,Auto,Gut,4
+15335,nicht klassifiziert,2018-11-23 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1000,Transporter,Gut,11
+15336,nicht klassifiziert,2009-10-26 00:00:00,37,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,4,trocken,männlich,1816,Auto,Gut,10
+15337,nicht klassifiziert,2018-11-27 00:00:00,65,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1910,Auto,Gut,11
+15338,nicht klassifiziert,2018-11-01 00:00:00,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1245,Transporter,Gut,11
+15339,nicht klassifiziert,2018-04-22 00:00:00,72,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1415,Auto,Gut,4
+15340,Bundesstrasse,2018-06-13 00:00:00,75,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1630,Auto,Gut,6
+15341,Bundesstrasse,2011-12-05 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,Frost / Eis,weiblich,805,Auto,Gut,12
+15342,nicht klassifiziert,2018-06-27 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1650,Auto,Gut,6
+15343,Bundesstrasse,2018-07-21 00:00:00,45,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,2308,Bus,Gut,7
+15344,Bundesstrasse,2009-10-22 00:00:00,20,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1050,Auto,Gut,10
+15345,Bundesstrasse,2018-11-22 00:00:00,23,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,801,Transporter,Gut,11
+15346,Landesstrasse,2011-10-05 00:00:00,50,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1710,Mottorrad (500cc),Gut,10
+15347,nicht klassifiziert,2018-02-08 00:00:00,25,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,Frost / Eis,weiblich,335,Taxi,Gut,2
+15348,Autobahn,2018-03-31 00:00:00,19,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2300,Auto,Gut,3
+15349,Bundesstrasse,2018-02-22 00:00:00,28,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2120,Auto,Gut,2
+15350,Autobahn,2018-04-21 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1540,Auto,Gut,4
+15351,nicht klassifiziert,2009-10-16 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1715,Mottorrad (50cc),Gut,10
+15352,nicht klassifiziert,2018-02-26 00:00:00,8,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1545,Bus,Gut,2
+15353,Bundesstrasse,2009-03-18 00:00:00,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1245,Auto,Gut,3
+15354,Bundesstrasse,2018-02-25 00:00:00,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1110,Auto,Gut,2
+15355,Landesstrasse,2018-07-12 00:00:00,4,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1835,Fahrrad,Gut,7
+15356,nicht klassifiziert,2018-01-15 00:00:00,17,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1800,Auto,Gut,1
+15357,nicht klassifiziert,2018-04-20 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1800,Auto,Gut,4
+15358,Bundesstrasse,2018-04-09 00:00:00,64,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1655,Auto,Gut,4
+15359,Bundesstrasse,2018-02-04 00:00:00,38,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,950,LKW bis 7.5t,Gut (starker Wind),2
+15360,nicht klassifiziert,2018-06-11 00:00:00,32,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1715,Fahrrad,Gut,6
+15361,Bundesstrasse,2010-05-28 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,735,Fahrrad,Gut,5
+15362,nicht klassifiziert,2011-10-08 00:00:00,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1425,Auto,Gut,10
+15363,nicht klassifiziert,2018-04-18 00:00:00,21,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,805,Auto,Gut,4
+15364,nicht klassifiziert,2018-05-16 00:00:00,69,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1711,Auto,Gut,5
+15365,Kraftfahrzeugstrasse,2018-11-01 00:00:00,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1210,Auto,Gut,11
+15366,nicht klassifiziert,2018-02-13 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1520,Auto,Gut,2
+15367,Bundesstrasse,2018-04-25 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1320,Auto,Gut,4
+15368,nicht klassifiziert,2009-10-06 00:00:00,12,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,Überflutung,weiblich,1540,Auto,Gut,10
+15369,nicht klassifiziert,2012-05-25 00:00:00,2,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1440,Auto,Gut,5
+15370,nicht klassifiziert,2018-09-05 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1000,Transporter,Gut,9
+15371,nicht klassifiziert,2018-09-06 00:00:00,56,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,weiblich,1745,Auto,Gut,9
+15372,Bundesstrasse,2018-07-30 00:00:00,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,900,Auto,Regen,7
+15373,Bundesstrasse,2012-12-20 00:00:00,23,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,3,4,trocken,männlich,2318,Auto,Gut,12
+15374,nicht klassifiziert,2018-01-10 00:00:00,11,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,750,Auto,Gut,1
+15375,Bundesstrasse,2018-08-14 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,2030,Auto,Gut,8
+15376,Landesstrasse,2018-09-15 00:00:00,51,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,2030,Auto,Gut,9
+15377,Bundesstrasse,2018-03-10 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1630,Transporter,Gut,3
+15378,nicht klassifiziert,2018-08-05 00:00:00,65,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1400,Bus,Gut,8
+15379,Bundesstrasse,2018-04-13 00:00:00,45,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,51,Auto,Andere,4
+15380,nicht klassifiziert,2018-09-29 00:00:00,19,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,2330,Auto,Gut,9
+15381,Autobahn,2018-07-25 00:00:00,31,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,12,1,trocken,männlich,1350,Kleinbus,Gut,7
+15382,Bundesstrasse,2018-10-31 00:00:00,58,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,930,Auto,Gut,10
+15383,nicht klassifiziert,2018-09-23 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,weiblich,740,Auto,Gut,9
+15384,nicht klassifiziert,2018-01-20 00:00:00,21,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,weiblich,405,Auto,Regen,1
+15385,Bundesstrasse,2018-07-26 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,2156,Mottorrad (125cc),Gut,7
+15386,Bundesstrasse,2012-12-16 00:00:00,57,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1545,Auto,Gut,12
+15387,nicht klassifiziert,2018-01-28 00:00:00,12,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1530,Auto,Gut,1
+15388,nicht klassifiziert,2018-02-27 00:00:00,43,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,Frost/ Ice,männlich,645,Auto,Gut,2
+15389,nicht klassifiziert,2011-12-03 00:00:00,20,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2210,Auto,Regen,12
+15390,nicht klassifiziert,2009-12-23 00:00:00,77,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1500,Auto,Gut,12
+15391,Bundesstrasse,2009-12-16 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,nass / feucht,weiblich,1215,Auto,Regen,12
+15392,Autobahn,2018-09-15 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1725,Auto,Gut,9
+15393,Bundesstrasse,2018-08-06 00:00:00,61,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1440,Auto,Gut,8
+15394,nicht klassifiziert,2012-12-25 00:00:00,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1200,Auto,Gut,12
+15395,nicht klassifiziert,2018-03-06 00:00:00,1,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,nass / feucht,weiblich,1624,Auto,Gut,3
+15396,Bundesstrasse,2018-02-03 00:00:00,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,Schnee,männlich,830,Bus,Schnee,2
+15397,Bundesstrasse,2010-10-17 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1600,Auto,Gut,10
+15398,nicht klassifiziert,2018-03-15 00:00:00,27,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,trocken,weiblich,58,Fahrrad,Gut,3
+15399,Bundesstrasse,2018-01-04 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,935,Auto,Gut,1
+15400,Bundesstrasse,2010-05-29 00:00:00,4,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1710,Auto,Gut,5
+15401,nicht klassifiziert,2018-11-02 00:00:00,22,Fahrer,Dunkelheit: keine Strassenbeleuchtung,2,1,nass / feucht,weiblich,2123,Auto,Regen,11
+15402,nicht klassifiziert,2018-11-02 00:00:00,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1915,Auto,Gut,11
+15403,Landesstrasse,2018-03-26 00:00:00,86,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1043,Auto,Gut,3
+15404,Bundesstrasse,2018-01-20 00:00:00,64,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,2024,Auto,Gut,1
+15405,Bundesstrasse,2018-08-19 00:00:00,43,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,2030,Fahrrad,Regen,8
+15406,nicht klassifiziert,2018-06-24 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1810,Fahrrad,Unbekannt,6
+15407,Bundesstrasse,2009-03-11 00:00:00,66,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1030,Bus,Gut,3
+15408,nicht klassifiziert,2018-11-06 00:00:00,21,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1830,Auto,Gut,11
+15409,nicht klassifiziert,2018-12-13 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1143,Mottorrad,Gut,12
+15410,nicht klassifiziert,2018-07-20 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1905,Fahrrad,Gut,7
+15411,nicht klassifiziert,2018-06-12 00:00:00,91,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1315,Auto,Gut,6
+15412,nicht klassifiziert,2018-07-14 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,2005,Auto,Gut,7
+15413,nicht klassifiziert,2018-10-31 00:00:00,47,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,815,Fahrrad,Gut,10
+15414,Kraftfahrzeugstrasse,2018-11-24 00:00:00,50,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1425,Auto,Gut,11
+15415,nicht klassifiziert,2018-03-14 00:00:00,38,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1850,Auto,Gut,3
+15416,Bundesstrasse,2018-08-01 00:00:00,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,2054,Mottorrad (125cc),Gut,8
+15417,Bundesstrasse,2018-12-02 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,940,Auto,Gut,12
+15418,nicht klassifiziert,2018-09-14 00:00:00,52,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,1110,Fahrrad,Gut,9
+15419,nicht klassifiziert,2018-02-08 00:00:00,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1457,Bus,Gut,2
+15420,Bundesstrasse,2018-01-25 00:00:00,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1715,Mottorrad (500cc),Gut,1
+15421,Landesstrasse,2012-03-13 00:00:00,29,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1114,Auto,Gut,3
+15422,nicht klassifiziert,2018-09-08 00:00:00,4,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,2010,Auto,Gut,9
+15423,nicht klassifiziert,2018-01-17 00:00:00,23,Fahrer,Dunkelheit: keine Strassenbeleuchtung,4,2,nass / feucht,männlich,2125,Auto,Gut,1
+15424,nicht klassifiziert,2018-01-04 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1430,Auto,Gut,1
+15425,nicht klassifiziert,2018-06-17 00:00:00,68,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1457,Auto,Gut,6
+15426,nicht klassifiziert,2018-08-13 00:00:00,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1457,Mottorrad (50cc),Gut,8
+15427,Autobahn,2011-05-28 00:00:00,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,745,Auto,Regen,5
+15428,Autobahn,2018-02-21 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,Schnee,weiblich,640,Auto,Schnee,2
+15429,nicht klassifiziert,2018-09-07 00:00:00,20,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,weiblich,2245,Auto,Gut,9
+15430,Kraftfahrzeugstrasse,2018-01-11 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2332,Auto,Gut,1
+15431,Bundesstrasse,2018-02-01 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1250,Auto,Gut,2
+15432,Bundesstrasse,2010-10-13 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,820,Mottorrad (500cc),Gut,10
+15433,nicht klassifiziert,2011-12-12 00:00:00,3,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,weiblich,1535,Auto,Gut,12
+15434,Bundesstrasse,2018-06-19 00:00:00,62,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,900,Auto,Gut,6
+15435,Bundesstrasse,2018-05-18 00:00:00,83,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1225,Auto,Gut,5
+15436,Bundesstrasse,2018-04-07 00:00:00,31,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,3,nass / feucht,männlich,2350,Auto,Regen,4
+15437,Bundesstrasse,2018-09-09 00:00:00,45,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,5,Auto,Gut,9
+15438,Bundesstrasse,2010-12-22 00:00:00,18,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,weiblich,1515,Auto,Gut,12
+15439,Bundesstrasse,2018-07-18 00:00:00,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,830,Bus,Gut,7
+15440,Landesstrasse,2018-11-20 00:00:00,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1156,Auto,Gut,11
+15441,Kraftfahrzeugstrasse,2018-06-11 00:00:00,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,1552,Auto,Gut,6
+15442,nicht klassifiziert,2018-01-13 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,2,nass / feucht,männlich,25,Auto,Gut,1
+15443,Autobahn,2018-09-01 00:00:00,51,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,1030,Transporter,Gut,9
+15444,Bundesstrasse,2018-06-11 00:00:00,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,230,Taxi,Gut,6
+15445,nicht klassifiziert,2009-03-09 00:00:00,48,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1500,Auto,Gut,3
+15446,nicht klassifiziert,2010-10-19 00:00:00,48,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1530,Auto,Gut,10
+15447,Bundesstrasse,2012-03-22 00:00:00,29,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1400,Auto,Gut,3
+15448,Bundesstrasse,2018-08-27 00:00:00,22,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1733,Mottorrad (50cc),Gut,8
+15449,Autobahn,2018-04-06 00:00:00,25,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,920,Taxi,Gut,4
+15450,Bundesstrasse,2018-09-09 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1526,Fahrrad,Gut,9
+15451,Bundesstrasse,2011-12-08 00:00:00,75,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,907,Bus,Gut,12
+15452,nicht klassifiziert,2018-08-02 00:00:00,11,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1525,Fahrrad,Gut,8
+15453,Bundesstrasse,2018-12-19 00:00:00,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,730,Auto,Gut,12
+15454,nicht klassifiziert,2018-01-27 00:00:00,43,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,2255,Auto,Gut,1
+15455,Bundesstrasse,2018-07-29 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,745,Fahrrad,Gut,7
+15456,Autobahn,2018-01-04 00:00:00,41,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,2,trocken,männlich,2003,Auto,Gut,1
+15457,nicht klassifiziert,2018-04-04 00:00:00,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1715,Auto,Gut,4
+15458,Bundesstrasse,2018-02-22 00:00:00,5,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1608,Auto,Gut,2
+15459,nicht klassifiziert,2018-01-27 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1850,Auto,Gut,1
+15460,nicht klassifiziert,2018-09-23 00:00:00,0,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1110,Bus,Gut,9
+15461,Bundesstrasse,2018-02-27 00:00:00,62,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1225,Auto,Gut,2
+15462,Landesstrasse,2011-12-22 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1330,Auto,Gut,12
+15463,nicht klassifiziert,2018-06-02 00:00:00,25,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,2,1,trocken,weiblich,510,Taxi,Gut,6
+15464,Bundesstrasse,2018-02-05 00:00:00,22,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,nass / feucht,männlich,1952,Auto,Regen,2
+15465,nicht klassifiziert,2009-10-08 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,4,trocken,männlich,1430,Transporter,Gut,10
+15466,Landesstrasse,2018-08-29 00:00:00,38,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,40,Auto,Gut,8
+15467,Bundesstrasse,2018-03-28 00:00:00,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,männlich,1025,Auto,Gut,3
+15468,Bundesstrasse,2018-07-18 00:00:00,66,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,3,trocken,männlich,1115,Auto,Gut,7
+15469,Bundesstrasse,2018-09-06 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1415,Auto,Gut,9
+15470,Bundesstrasse,2009-03-29 00:00:00,46,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,130,Taxi,Gut,3
+15471,nicht klassifiziert,2018-11-26 00:00:00,18,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,2050,Auto,Gut,11
+15472,nicht klassifiziert,2018-06-25 00:00:00,37,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1620,Auto,Gut,6
+15473,Bundesstrasse,2018-04-22 00:00:00,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,830,Fahrrad,Gut,4
+15474,nicht klassifiziert,2018-04-06 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1500,Auto,Gut,4
+15475,nicht klassifiziert,2018-07-22 00:00:00,52,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,26,Taxi,Gut,7
+15476,nicht klassifiziert,2018-06-22 00:00:00,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,926,Mottorrad (125cc),Gut,6
+15477,Bundesstrasse,2018-08-06 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,445,Transporter,Gut,8
+15478,Landesstrasse,2018-10-22 00:00:00,26,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1701,Auto,Gut,10
+15479,nicht klassifiziert,2018-07-29 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,940,Auto,Gut,7
+15480,Bundesstrasse,2018-06-21 00:00:00,17,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,nass / feucht,männlich,1715,Auto,Regen,6
+15481,nicht klassifiziert,2010-05-05 00:00:00,31,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1645,Auto,Gut,5
+15482,nicht klassifiziert,2018-10-24 00:00:00,58,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,1945,Auto,Gut,10
+15483,Bundesstrasse,2018-06-16 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,männlich,1900,Auto,Gut,6
+15484,nicht klassifiziert,2018-06-15 00:00:00,20,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1130,Auto,Regen,6
+15485,Bundesstrasse,2018-12-30 00:00:00,48,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,2120,Auto,Gut (starker Wind),12
+15486,Bundesstrasse,2010-03-11 00:00:00,71,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1015,Fahrrad,Gut,3
+15487,Bundesstrasse,2018-02-05 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1820,Auto,Gut,2
+15488,nicht klassifiziert,2018-06-18 00:00:00,41,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2005,Fahrrad,Gut,6
+15489,nicht klassifiziert,2018-09-23 00:00:00,40,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,weiblich,740,Auto,Gut,9
+15490,Bundesstrasse,2018-06-03 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,4,trocken,männlich,940,Auto,Gut,6
+15491,nicht klassifiziert,2018-09-10 00:00:00,49,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,522,Fahrrad,Gut,9
+15492,Bundesstrasse,2018-02-10 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1430,Auto,Gut,2
+15493,nicht klassifiziert,2018-11-23 00:00:00,29,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1815,Mottorrad (500cc),Gut,11
+15494,nicht klassifiziert,2018-07-01 00:00:00,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1105,Auto,Gut,7
+15495,nicht klassifiziert,2018-07-08 00:00:00,56,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1035,Fahrrad,Gut,7
+15496,Autobahn,2018-02-11 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1707,Auto,Gut,2
+15497,nicht klassifiziert,2018-09-13 00:00:00,37,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,8,2,trocken,weiblich,1215,Bus,Gut,9
+15498,Bundesstrasse,2018-02-03 00:00:00,67,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1535,Taxi,Gut,2
+15499,Bundesstrasse,2018-09-17 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,740,Mottorrad (500cc),Gut,9
+15500,nicht klassifiziert,2018-05-31 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,550,Auto,Gut,5
+15501,nicht klassifiziert,2018-10-02 00:00:00,20,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,1923,Auto,Gut,10
+15502,Bundesstrasse,2018-08-08 00:00:00,52,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1810,Auto,Gut,8
+15503,Bundesstrasse,2018-11-21 00:00:00,27,Fahrer,Dunkelheit: keine Strassenbeleuchtung,5,3,nass / feucht,weiblich,1830,Auto,Gut,11
+15504,nicht klassifiziert,2012-12-09 00:00:00,23,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,30,Auto,Gut,12
+15505,Autobahn,2018-12-21 00:00:00,24,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1730,Auto,Gut,12
+15506,nicht klassifiziert,2018-10-28 00:00:00,23,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,755,Auto,Gut,10
+15507,Bundesstrasse,2018-02-09 00:00:00,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,930,Auto,Gut,2
+15508,nicht klassifiziert,2009-05-04 00:00:00,25,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,1255,Andere,Gut,5
+15509,Bundesstrasse,2018-06-30 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,959,Auto,Gut,6
+15510,nicht klassifiziert,2018-04-26 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,900,Auto,Gut,4
+15511,Bundesstrasse,2018-04-01 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1605,Mottorrad,Gut,4
+15512,Bundesstrasse,2012-03-08 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1615,Auto,Gut,3
+15513,nicht klassifiziert,2018-11-15 00:00:00,16,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1430,Mottorrad,Gut,11
+15514,nicht klassifiziert,2012-12-16 00:00:00,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1255,Mottorrad (50cc),Gut,12
+15515,Autobahn,2018-09-03 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,4,nass / feucht,weiblich,810,Auto,Regen,9
+15516,Bundesstrasse,2018-01-30 00:00:00,35,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,weiblich,2248,Andere,Gut,1
+15517,nicht klassifiziert,2018-06-03 00:00:00,21,Fahrer,Dunkelheit: keine Strassenbeleuchtung,2,1,trocken,männlich,2250,Auto,Gut,6
+15518,nicht klassifiziert,2018-02-27 00:00:00,19,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,1300,Mottorrad (125cc),Gut,2
+15519,nicht klassifiziert,2018-07-12 00:00:00,29,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1515,Bus,Gut,7
+15520,Bundesstrasse,2018-04-15 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1535,Auto,Gut,4
+15521,nicht klassifiziert,2018-01-19 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,nass / feucht,männlich,750,Mottorrad (50cc),Regen,1
+15522,Bundesstrasse,2009-05-30 00:00:00,38,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1426,Auto,Gut,5
+15523,nicht klassifiziert,2018-06-25 00:00:00,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1006,Mottorrad (50cc),Gut,6
+15524,nicht klassifiziert,2018-10-14 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,936,Auto,Gut,10
+15525,nicht klassifiziert,2012-03-26 00:00:00,23,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1140,Auto,Gut,3
+15526,nicht klassifiziert,2018-09-23 00:00:00,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1210,Auto,Gut,9
+15527,Bundesstrasse,2018-08-09 00:00:00,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1730,Auto,Gut,8
+15528,nicht klassifiziert,2018-11-22 00:00:00,71,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1340,Auto,Gut,11
+15529,nicht klassifiziert,2018-06-20 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1021,Fahrrad,Gut,6
+15530,nicht klassifiziert,2018-04-10 00:00:00,45,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2255,Bus,Gut,4
+15531,nicht klassifiziert,2018-05-26 00:00:00,38,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,weiblich,2000,Auto,Gut,5
+15532,nicht klassifiziert,2018-07-07 00:00:00,85,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1335,Bus,Gut,7
+15533,Bundesstrasse,2018-04-08 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1815,Auto,Gut,4
+15534,Autobahn,2018-12-02 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,820,Auto,Gut,12
+15535,Landesstrasse,2018-01-06 00:00:00,51,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1800,Auto,Gut,1
+15536,Bundesstrasse,2018-04-11 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1440,Auto,Gut,4
+15537,Bundesstrasse,2010-05-25 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,6,2,trocken,weiblich,1520,Auto,Gut,5
+15538,nicht klassifiziert,2011-12-14 00:00:00,25,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1703,Auto,Gut,12
+15539,Bundesstrasse,2018-01-09 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1550,Bus,Gut,1
+15540,nicht klassifiziert,2011-12-02 00:00:00,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,655,Auto,Gut,12
+15541,nicht klassifiziert,2018-08-12 00:00:00,21,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,1,nass / feucht,weiblich,109,Auto,Gut,8
+15542,Bundesstrasse,2018-07-21 00:00:00,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1430,Auto,Regen,7
+15543,nicht klassifiziert,2018-09-27 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1300,Mottorrad (50cc),Gut,9
+15544,nicht klassifiziert,2010-12-15 00:00:00,84,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1100,Kleinbus,Gut,12
+15545,nicht klassifiziert,2009-05-24 00:00:00,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1610,Bus,Gut,5
+15546,nicht klassifiziert,2009-10-28 00:00:00,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,weiblich,2042,Auto,Gut,10
+15547,Bundesstrasse,2011-05-22 00:00:00,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,645,Auto,Gut,5
+15548,nicht klassifiziert,2018-08-10 00:00:00,5,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1910,Fahrrad,Gut,8
+15549,Bundesstrasse,2018-04-07 00:00:00,32,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,3,nass / feucht,männlich,2350,Auto,Regen,4
+15550,nicht klassifiziert,2018-12-28 00:00:00,72,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,605,Auto,Gut,12
+15551,nicht klassifiziert,2018-02-05 00:00:00,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,Schnee,weiblich,1015,Auto,Schnee,2
+15552,Landesstrasse,2018-11-12 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1915,Auto,Gut,11
+15553,nicht klassifiziert,2018-04-05 00:00:00,40,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1430,Bus,Gut,4
+15554,Landesstrasse,2018-07-31 00:00:00,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1452,Bus,Gut,7
+15555,Bundesstrasse,2018-08-02 00:00:00,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1735,Auto,Gut,8
+15556,nicht klassifiziert,2012-12-12 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1210,Bus,Gut,12
+15557,nicht klassifiziert,2018-02-17 00:00:00,6,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1825,Auto,Gut,2
+15558,Bundesstrasse,2018-10-10 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1030,Fahrrad,Gut,10
+15559,Bundesstrasse,2010-03-05 00:00:00,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,850,Auto,Gut,3
+15560,Bundesstrasse,2018-11-11 00:00:00,14,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,840,Auto,Regen,11
+15561,nicht klassifiziert,2018-04-24 00:00:00,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,945,Auto,Gut,4
+15562,nicht klassifiziert,2018-03-23 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,Schnee,männlich,1052,Transporter,Gut,3
+15563,Bundesstrasse,2012-05-16 00:00:00,56,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1315,Auto,Gut,5
+15564,nicht klassifiziert,2018-05-31 00:00:00,17,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,1910,Auto,Gut,5
+15565,Bundesstrasse,2018-07-19 00:00:00,45,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1705,Auto,Gut,7
+15566,nicht klassifiziert,2018-06-04 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1730,Auto,Gut,6
+15567,nicht klassifiziert,2018-09-05 00:00:00,48,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,500,Fahrrad,Gut,9
+15568,nicht klassifiziert,2018-07-03 00:00:00,66,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,842,Auto,Gut,7
+15569,Landesstrasse,2018-08-28 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1857,Mottorrad (125cc),Gut,8
+15570,nicht klassifiziert,2018-03-04 00:00:00,29,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1859,Auto,Gut,3
+15571,Bundesstrasse,2018-08-24 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1835,LKW bis 7.5t,Gut,8
+15572,Kraftfahrzeugstrasse,2018-09-18 00:00:00,66,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,1,trocken,weiblich,200,Auto,Gut,9
+15573,nicht klassifiziert,2018-12-18 00:00:00,32,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1731,Fahrrad,Unbekannt,12
+15574,nicht klassifiziert,2018-04-18 00:00:00,17,Passagier,Dunkelheit: keine Strassenbeleuchtung,4,2,trocken,männlich,2122,Auto,Gut,4
+15575,Bundesstrasse,2018-06-29 00:00:00,53,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1056,Kleinbus,Gut,6
+15576,Bundesstrasse,2018-05-15 00:00:00,12,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,7,2,trocken,weiblich,1740,Auto,Gut,5
+15577,Landesstrasse,2011-12-06 00:00:00,23,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,2057,Auto,Regen,12
+15578,Bundesstrasse,2018-06-05 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1315,Auto,Gut,6
+15579,Bundesstrasse,2011-10-21 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1315,Auto,Gut,10
+15580,Landesstrasse,2018-01-14 00:00:00,37,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1830,Auto,Gut,1
+15581,nicht klassifiziert,2011-12-15 00:00:00,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,Frost / Eis,männlich,945,Auto,Gut,12
+15582,nicht klassifiziert,2011-05-31 00:00:00,46,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,7,1,trocken,weiblich,1315,Bus,Gut,5
+15583,Bundesstrasse,2018-02-26 00:00:00,11,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,3,trocken,weiblich,1300,Auto,Gut,2
+15584,Bundesstrasse,2018-05-03 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1815,Fahrrad,Gut,5
+15585,nicht klassifiziert,2018-09-07 00:00:00,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,930,Fahrrad,Gut,9
+15586,nicht klassifiziert,2018-08-22 00:00:00,60,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1855,Auto,Gut,8
+15587,nicht klassifiziert,2018-03-08 00:00:00,21,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1315,LKW bis 7.5t,Gut,3
+15588,Landesstrasse,2018-03-04 00:00:00,61,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,weiblich,1905,Auto,Gut,3
+15589,nicht klassifiziert,2018-05-14 00:00:00,32,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,5,3,trocken,weiblich,2020,Auto,Gut,5
+15590,Bundesstrasse,2018-08-14 00:00:00,27,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,2030,Auto,Gut,8
+15591,Bundesstrasse,2018-06-15 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Fahrrad,Gut,6
+15592,nicht klassifiziert,2010-05-14 00:00:00,16,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1105,Fahrrad,Gut,5
+15593,Kraftfahrzeugstrasse,2018-11-10 00:00:00,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,weiblich,2035,Auto,Gut,11
+15594,nicht klassifiziert,2018-11-23 00:00:00,57,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1150,Bus,Gut,11
+15595,nicht klassifiziert,2018-06-27 00:00:00,44,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2140,Auto,Gut,6
+15596,nicht klassifiziert,2018-07-03 00:00:00,3,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1506,Auto,Gut,7
+15597,nicht klassifiziert,2018-03-14 00:00:00,32,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1330,Transporter,Gut,3
+15598,Bundesstrasse,2009-03-28 00:00:00,47,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,3,nass / feucht,weiblich,1155,Auto,Regen,3
+15599,nicht klassifiziert,2018-10-23 00:00:00,6,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,854,Auto,Gut,10
+15600,Bundesstrasse,2009-05-23 00:00:00,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,1500,Auto,Gut,5
+15601,Bundesstrasse,2018-06-11 00:00:00,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1725,Auto,Gut,6
+15602,nicht klassifiziert,2018-07-21 00:00:00,66,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1215,Auto,Gut,7
+15603,nicht klassifiziert,2012-03-31 00:00:00,79,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,845,Auto,Gut,3
+15604,Bundesstrasse,2018-11-18 00:00:00,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,744,Mottorrad (50cc),Gut,11
+15605,nicht klassifiziert,2012-03-21 00:00:00,3,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1512,Auto,Gut,3
+15606,nicht klassifiziert,2018-06-07 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1445,Auto,Gut,6
+15607,nicht klassifiziert,2018-09-26 00:00:00,17,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,weiblich,2237,Mottorrad (500cc),Gut,9
+15608,Bundesstrasse,2018-07-14 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1308,Fahrrad,Gut,7
+15609,Bundesstrasse,2018-08-21 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,359,Auto,Gut,8
+15610,nicht klassifiziert,2018-07-01 00:00:00,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1714,Auto,Gut,7
+15611,Bundesstrasse,2018-04-27 00:00:00,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,weiblich,1053,Taxi,Regen,4
+15612,nicht klassifiziert,2018-08-10 00:00:00,20,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1915,Auto,Gut,8
+15613,nicht klassifiziert,2018-07-22 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1600,Fahrrad,Gut,7
+15614,Bundesstrasse,2018-01-09 00:00:00,16,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1035,Auto,Gut,1
+15615,nicht klassifiziert,2018-04-23 00:00:00,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1250,Auto,Gut,4
+15616,nicht klassifiziert,2012-05-05 00:00:00,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1535,Bus,Gut,5
+15617,Bundesstrasse,2018-11-17 00:00:00,51,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1935,Auto,Regen,11
+15618,Bundesstrasse,2012-12-28 00:00:00,10,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1148,Auto,Gut,12
+15619,nicht klassifiziert,2018-07-05 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,2027,Auto,Gut,7
+15620,nicht klassifiziert,2010-03-24 00:00:00,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1245,Auto,Gut,3
+15621,nicht klassifiziert,2018-06-09 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,852,Auto,Gut,6
+15622,nicht klassifiziert,2011-05-01 00:00:00,89,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1325,Auto,Gut,5
+15623,Bundesstrasse,2018-11-14 00:00:00,24,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2315,Auto,Gut,11
+15624,Bundesstrasse,2009-12-05 00:00:00,13,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1030,Auto,Gut,12
+15625,Bundesstrasse,2018-03-19 00:00:00,46,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2016,Fahrrad,Gut,3
+15626,Bundesstrasse,2018-02-11 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,weiblich,1745,Auto,Gut,2
+15627,nicht klassifiziert,2018-09-16 00:00:00,36,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,4,trocken,weiblich,1315,Auto,Gut,9
+15628,Bundesstrasse,2018-07-24 00:00:00,61,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,735,Auto,Gut,7
+15629,nicht klassifiziert,2018-12-18 00:00:00,57,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1340,Auto,Gut,12
+15630,nicht klassifiziert,2018-09-13 00:00:00,35,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,8,2,trocken,weiblich,1215,Bus,Gut,9
+15631,Bundesstrasse,2018-07-23 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,845,Fahrrad,Regen,7
+15632,Bundesstrasse,2018-08-26 00:00:00,20,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,25,Taxi,Gut,8
+15633,nicht klassifiziert,2018-12-06 00:00:00,22,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,1,nass / feucht,weiblich,1930,Auto,Regen,12
+15634,nicht klassifiziert,2018-09-21 00:00:00,45,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1916,Auto,Gut,9
+15635,Bundesstrasse,2018-01-23 00:00:00,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,800,Mottorrad (50cc),Regen,1
+15636,Bundesstrasse,2018-09-21 00:00:00,20,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,230,Auto,Gut,9
+15637,Bundesstrasse,2018-01-18 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1110,Mottorrad (125cc),Regen,1
+15638,nicht klassifiziert,2018-09-05 00:00:00,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1300,Fahrrad,Gut,9
+15639,Autobahn,2018-09-16 00:00:00,48,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,854,Auto,Gut,9
+15640,nicht klassifiziert,2018-01-12 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1020,Auto,Gut,1
+15641,Bundesstrasse,2018-02-24 00:00:00,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1505,Auto,Gut,2
+15642,nicht klassifiziert,2018-06-11 00:00:00,49,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1353,Bus,Unbekannt,6
+15643,nicht klassifiziert,2018-07-14 00:00:00,31,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1656,Auto,Gut,7
+15644,Bundesstrasse,2018-06-07 00:00:00,73,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1047,Auto,Gut,6
+15645,Kraftfahrzeugstrasse,2018-02-11 00:00:00,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,weiblich,1935,Auto,Gut,2
+15646,nicht klassifiziert,2009-10-10 00:00:00,47,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,935,Bus,Gut,10
+15647,Bundesstrasse,2018-10-20 00:00:00,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1015,Mottorrad (500cc),Gut,10
+15648,Bundesstrasse,2009-10-08 00:00:00,43,Passagier,Dunkelheit: keine Strassenbeleuchtung,2,2,trocken,weiblich,2017,Mottorrad (500cc),Gut,10
+15649,nicht klassifiziert,2018-02-01 00:00:00,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,35,Taxi,Gut,2
+15650,nicht klassifiziert,2018-10-30 00:00:00,56,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,2005,Auto,Gut,10
+15651,Bundesstrasse,2018-02-07 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,735,Auto,Gut,2
+15652,nicht klassifiziert,2018-01-01 00:00:00,58,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1840,Auto,Regen,1
+15653,nicht klassifiziert,2009-10-22 00:00:00,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1541,Mottorrad (50cc),Gut,10
+15654,Bundesstrasse,2018-02-15 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,725,Fahrrad,Gut,2
+15655,Kraftfahrzeugstrasse,2018-07-03 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,732,Auto,Gut,7
+15656,nicht klassifiziert,2018-07-23 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1700,Mottorrad,Gut,7
+15657,Bundesstrasse,2018-01-17 00:00:00,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1505,Auto,Gut,1
+15658,nicht klassifiziert,2018-06-07 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,1,trocken,männlich,1945,Auto,Gut,6
+15659,Bundesstrasse,2018-07-16 00:00:00,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,938,Taxi,Gut,7
+15660,nicht klassifiziert,2012-10-03 00:00:00,7,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,weiblich,1955,Auto,Regen,10
+15661,nicht klassifiziert,2018-09-23 00:00:00,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,820,Mottorrad (50cc),Gut,9
+15662,nicht klassifiziert,2018-01-13 00:00:00,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,Frost/ Ice,männlich,845,Transporter,Gut,1
+15663,Bundesstrasse,2018-11-14 00:00:00,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1645,Transporter,Gut,11
+15664,nicht klassifiziert,2018-02-28 00:00:00,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,trocken,männlich,2035,Auto,Gut,2
+15665,nicht klassifiziert,2018-11-13 00:00:00,71,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1616,Bus,Gut,11
+15666,nicht klassifiziert,2018-12-11 00:00:00,28,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,trocken,weiblich,1625,Auto,Gut,12
+15667,Landesstrasse,2018-07-19 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1045,Auto,Regen,7
+15668,nicht klassifiziert,2018-09-17 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1150,Mottorrad (50cc),Gut,9
+15669,nicht klassifiziert,2012-03-30 00:00:00,28,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2210,Auto,Gut,3
+15670,Bundesstrasse,2018-09-17 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,905,Fahrrad,Gut,9
+15671,Bundesstrasse,2018-11-26 00:00:00,16,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,810,Auto,Gut,11
+15672,nicht klassifiziert,2018-04-12 00:00:00,47,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1330,Fahrrad,Gut,4
+15673,nicht klassifiziert,2018-07-18 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1658,Auto,Gut,7
+15674,nicht klassifiziert,2018-06-14 00:00:00,1,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1935,Auto,Gut,6
+15675,Bundesstrasse,2018-07-03 00:00:00,68,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,945,Auto,Gut,7
+15676,Bundesstrasse,2018-07-16 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1600,Mottorrad (125cc),Gut,7
+15677,Bundesstrasse,2018-02-06 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,2110,Auto,Regen,2
+15678,nicht klassifiziert,2012-05-04 00:00:00,9,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1720,Auto,Gut,5
+15679,nicht klassifiziert,2012-05-13 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1340,Auto,Gut,5
+15680,unbefestigte Strasse,2018-06-15 00:00:00,57,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,7,3,trocken,männlich,1831,Auto,Gut,6
+15681,nicht klassifiziert,2010-12-17 00:00:00,57,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1100,Auto,Gut,12
+15682,Landesstrasse,2018-09-27 00:00:00,34,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2255,Auto,Gut,9
+15683,Bundesstrasse,2010-03-11 00:00:00,39,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1738,Mottorrad (500cc),Gut,3
+15684,Bundesstrasse,2010-12-13 00:00:00,58,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,3,nass / feucht,weiblich,1455,Auto,Gut,12
+15685,Bundesstrasse,2018-09-18 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,936,Auto,Gut,9
+15686,nicht klassifiziert,2018-09-29 00:00:00,50,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1125,Bus,Gut,9
+15687,nicht klassifiziert,2018-10-28 00:00:00,71,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,939,Auto,Regen,10
+15688,Bundesstrasse,2018-10-13 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,1335,Auto,Regen,10
+15689,Autobahn,2018-12-21 00:00:00,44,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,15,Auto,Andere,12
+15690,Bundesstrasse,2009-10-06 00:00:00,81,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1510,Auto,Regen,10
+15691,Bundesstrasse,2011-10-24 00:00:00,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1415,Fahrrad,Gut,10
+15692,Bundesstrasse,2018-04-28 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1530,Auto,Gut,4
+15693,Bundesstrasse,2018-01-21 00:00:00,28,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,nass / feucht,männlich,35,Auto,Regen,1
+15694,nicht klassifiziert,2018-06-22 00:00:00,93,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1700,Auto,Gut,6
+15695,nicht klassifiziert,2018-02-06 00:00:00,83,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1030,Transporter,Gut,2
+15696,nicht klassifiziert,2018-04-11 00:00:00,38,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1340,Auto,Gut,4
+15697,nicht klassifiziert,2018-08-16 00:00:00,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1035,Transporter,Gut,8
+15698,nicht klassifiziert,2009-12-09 00:00:00,16,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,720,Mottorrad,Gut,12
+15699,Autobahn,2018-07-08 00:00:00,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1800,Auto,Gut,7
+15700,nicht klassifiziert,2018-08-22 00:00:00,48,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1905,Auto,Gut,8
+15701,Landesstrasse,2018-08-28 00:00:00,22,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1223,Auto,Regen,8
+15702,nicht klassifiziert,2018-07-18 00:00:00,14,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,830,Auto,Regen,7
+15703,Bundesstrasse,2018-09-15 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,845,Mottorrad (50cc),Regen,9
+15704,Autobahn,2018-01-27 00:00:00,18,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,608,Auto,Gut,1
+15705,Bundesstrasse,2018-09-20 00:00:00,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1325,Auto,Gut,9
+15706,nicht klassifiziert,2018-05-07 00:00:00,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,2220,Taxi,Gut,5
+15707,nicht klassifiziert,2018-12-13 00:00:00,19,Fahrer,Dunkelheit: keine Strassenbeleuchtung,3,2,nass / feucht,männlich,1640,Auto,Gut,12
+15708,Bundesstrasse,2018-07-10 00:00:00,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1515,Mottorrad (500cc),Gut,7
+15709,Bundesstrasse,2018-06-02 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1740,Fahrrad,Gut,6
+15710,nicht klassifiziert,2018-07-21 00:00:00,77,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,2010,Auto,Gut,7
+15711,Kraftfahrzeugstrasse,2018-07-18 00:00:00,61,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,1,trocken,weiblich,1515,Auto,Gut,7
+15712,Autobahn,2018-09-23 00:00:00,22,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,1,nass / feucht,weiblich,430,Auto,Gut,9
+15713,nicht klassifiziert,2018-04-26 00:00:00,74,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2050,Auto,Gut,4
+15714,Bundesstrasse,2018-02-11 00:00:00,32,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,Frost / Eis,männlich,20,Auto,Gut,2
+15715,Bundesstrasse,2011-10-06 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1815,Fahrrad,Regen,10
+15716,Landesstrasse,2018-06-11 00:00:00,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,820,Fahrrad,Gut,6
+15717,nicht klassifiziert,2009-03-19 00:00:00,31,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1140,Auto,Gut,3
+15718,Bundesstrasse,2009-05-25 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1310,Auto,Gut,5
+15719,Bundesstrasse,2018-04-21 00:00:00,54,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1535,Auto,Gut,4
+15720,Kraftfahrzeugstrasse,2018-10-11 00:00:00,63,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,556,Auto,Gut,10
+15721,Autobahn,2018-09-24 00:00:00,36,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1236,Auto,Regen,9
+15722,Autobahn,2010-12-22 00:00:00,40,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1815,Auto,Gut,12
+15723,Bundesstrasse,2018-05-19 00:00:00,35,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1837,Auto,Gut,5
+15724,nicht klassifiziert,2018-07-27 00:00:00,81,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,4,trocken,weiblich,1853,Auto,Gut,7
+15725,nicht klassifiziert,2018-11-15 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,1,nass / feucht,weiblich,500,Auto,Regen,11
+15726,Autobahn,2018-07-25 00:00:00,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,12,1,trocken,männlich,1350,Kleinbus,Gut,7
+15727,nicht klassifiziert,2018-08-01 00:00:00,62,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,2200,Auto,Gut,8
+15728,Bundesstrasse,2018-11-09 00:00:00,62,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,1940,Auto,Gut,11
+15729,Bundesstrasse,2018-03-09 00:00:00,58,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,850,Auto,Gut,3
+15730,nicht klassifiziert,2018-04-17 00:00:00,26,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,4,2,trocken,weiblich,1914,Auto,Gut,4
+15731,Bundesstrasse,2012-10-23 00:00:00,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,männlich,1238,Auto,Gut,10
+15732,nicht klassifiziert,2018-02-08 00:00:00,11,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,1850,Auto,Gut,2
+15733,Landesstrasse,2018-11-29 00:00:00,35,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,1,nass / feucht,männlich,1351,Auto,Gut,11
+15734,Bundesstrasse,2009-05-10 00:00:00,34,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,1,trocken,männlich,155,Auto,Gut,5
+15735,nicht klassifiziert,2018-07-23 00:00:00,37,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1355,Taxi,Gut,7
+15736,nicht klassifiziert,2018-10-24 00:00:00,24,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,730,Auto,Gut,10
+15737,Bundesstrasse,2018-09-02 00:00:00,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1255,Bus,Gut,9
+15738,Bundesstrasse,2010-10-03 00:00:00,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,nass / feucht,weiblich,1000,Auto,Regen,10
+15739,Bundesstrasse,2009-12-07 00:00:00,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1750,Mottorrad (500cc),Gut,12
+15740,nicht klassifiziert,2018-04-23 00:00:00,87,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1245,Bus,Gut,4
+15741,nicht klassifiziert,2018-11-10 00:00:00,77,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1340,Auto,Gut,11
+15742,Bundesstrasse,2009-10-12 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1111,Auto,Gut,10
+15743,nicht klassifiziert,2010-05-07 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,3,trocken,weiblich,1518,Auto,Gut,5
+15744,nicht klassifiziert,2018-09-16 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1721,Auto,Gut,9
+15745,Bundesstrasse,2010-05-23 00:00:00,89,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1255,Auto,Gut,5
+15746,Bundesstrasse,2009-03-15 00:00:00,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1445,Mottorrad (500cc),Gut,3
+15747,nicht klassifiziert,2018-12-02 00:00:00,41,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,500,Fahrrad,Gut,12
+15748,nicht klassifiziert,2018-11-10 00:00:00,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,930,Auto,Gut,11
+15749,nicht klassifiziert,2018-04-08 00:00:00,63,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1250,Auto,Gut,4
+15750,Bundesstrasse,2018-02-13 00:00:00,36,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,4,trocken,männlich,1240,Transporter,Gut,2
+15751,nicht klassifiziert,2018-09-09 00:00:00,8,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1730,Auto,Gut,9
+15752,nicht klassifiziert,2018-04-06 00:00:00,85,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1430,Transporter,Gut,4
+15753,Bundesstrasse,2018-09-07 00:00:00,77,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1740,Auto,Gut,9
+15754,nicht klassifiziert,2018-01-21 00:00:00,12,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,1640,Auto,Gut,1
+15755,Bundesstrasse,2018-04-07 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1245,Andere,Gut,4
+15756,nicht klassifiziert,2011-10-13 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,nass / feucht,männlich,1845,Auto,Gut,10
+15757,Landesstrasse,2018-12-12 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1715,Auto,Gut,12
+15758,nicht klassifiziert,2018-07-19 00:00:00,45,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,949,Auto,Gut,7
+15759,nicht klassifiziert,2018-12-12 00:00:00,22,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,1622,Transporter,Gut,12
+15760,nicht klassifiziert,2018-01-16 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1305,Auto,Gut,1
+15761,nicht klassifiziert,2018-01-28 00:00:00,68,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1817,Taxi,Gut,1
+15762,nicht klassifiziert,2018-02-28 00:00:00,23,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,weiblich,2245,Taxi,Gut,2
+15763,nicht klassifiziert,2018-07-27 00:00:00,27,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2150,Auto,Gut,7
+15764,Bundesstrasse,2018-10-11 00:00:00,52,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1910,Fahrrad,Gut (starker Wind),10
+15765,Bundesstrasse,2018-11-24 00:00:00,29,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1815,Fahrrad,Gut,11
+15766,Bundesstrasse,2018-09-06 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1415,Auto,Gut,9
+15767,nicht klassifiziert,2009-03-04 00:00:00,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1740,Auto,Gut,3
+15768,nicht klassifiziert,2018-02-12 00:00:00,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1620,Auto,Gut,2
+15769,nicht klassifiziert,2018-09-12 00:00:00,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,nass / feucht,weiblich,1300,Auto,Regen,9
+15770,Landesstrasse,2018-08-25 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,männlich,2140,Auto,Gut,8
+15771,Bundesstrasse,2018-09-29 00:00:00,69,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1147,Auto,Gut,9
+15772,Bundesstrasse,2009-03-17 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,6,7,trocken,weiblich,1550,Auto,Gut,3
+15773,nicht klassifiziert,2018-06-18 00:00:00,30,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1120,Auto,Gut,6
+15774,nicht klassifiziert,2018-09-22 00:00:00,5,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1610,Auto,Gut,9
+15775,Bundesstrasse,2018-04-07 00:00:00,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,2250,Auto,Gut,4
+15776,Bundesstrasse,2018-11-06 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,830,Mottorrad (500cc),Gut,11
+15777,Bundesstrasse,2010-12-05 00:00:00,5,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,Frost/ Ice,weiblich,1448,Auto,Gut,12
+15778,nicht klassifiziert,2018-09-02 00:00:00,42,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1355,Bus,Gut,9
+15779,nicht klassifiziert,2018-07-23 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1730,Auto,Gut,7
+15780,nicht klassifiziert,2018-02-16 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1540,Auto,Gut,2
+15781,nicht klassifiziert,2009-05-04 00:00:00,29,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,3,trocken,männlich,345,Auto,Gut,5
+15782,nicht klassifiziert,2011-05-04 00:00:00,74,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,2145,Taxi,Gut,5
+15783,nicht klassifiziert,2018-11-26 00:00:00,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2245,Auto,Gut,11
+15784,Kraftfahrzeugstrasse,2012-10-08 00:00:00,20,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,2130,Auto,Gut,10
+15785,Autobahn,2018-09-06 00:00:00,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,1,nass / feucht,männlich,1420,Auto,Regen,9
+15786,nicht klassifiziert,2018-09-27 00:00:00,19,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,weiblich,2040,Taxi,Gut,9
+15787,Autobahn,2018-09-16 00:00:00,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,3,trocken,weiblich,1320,Auto,Gut,9
+15788,nicht klassifiziert,2018-02-17 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,840,LKW ab 7.5t,Gut,2
+15789,Landesstrasse,2018-11-11 00:00:00,24,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1140,Auto,Regen (starker Wind),11
+15790,Bundesstrasse,2018-07-31 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1400,Auto,Gut,7
+15791,Bundesstrasse,2011-05-08 00:00:00,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,950,Auto,Gut,5
+15792,nicht klassifiziert,2018-01-06 00:00:00,20,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,3,nass / feucht,männlich,1840,Auto,Gut,1
+15793,nicht klassifiziert,2018-09-25 00:00:00,54,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1000,Auto,Gut,9
+15794,nicht klassifiziert,2012-10-01 00:00:00,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1158,Fahrrad,Regen,10
+15795,nicht klassifiziert,2009-10-12 00:00:00,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1255,Mottorrad (500cc),Gut,10
+15796,Bundesstrasse,2018-09-23 00:00:00,27,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,3,trocken,männlich,2150,Auto,Gut,9
+15797,Bundesstrasse,2018-01-03 00:00:00,64,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,Frost/ Ice,weiblich,1155,Auto,Gut,1
+15798,Bundesstrasse,2018-01-01 00:00:00,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,1,nass / feucht,männlich,1715,Auto,Gut,1
+15799,nicht klassifiziert,2018-06-09 00:00:00,37,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,1,trocken,männlich,1320,Bus,Gut,6
+15800,nicht klassifiziert,2018-06-17 00:00:00,67,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1600,Auto,Gut,6
+15801,nicht klassifiziert,2018-11-25 00:00:00,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1610,Auto,Gut,11
+15802,nicht klassifiziert,2018-07-21 00:00:00,51,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2220,Auto,Gut,7
+15803,nicht klassifiziert,2018-02-01 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1125,Auto,Gut,2
+15804,Bundesstrasse,2018-06-10 00:00:00,14,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1617,Auto,Gut,6
+15805,Bundesstrasse,2018-07-27 00:00:00,25,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,1,trocken,männlich,2134,Auto,Gut,7
+15806,Bundesstrasse,2018-07-16 00:00:00,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,938,Auto,Gut,7
+15807,nicht klassifiziert,2011-05-26 00:00:00,62,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,845,Transporter,Gut,5
+15808,Bundesstrasse,2011-10-07 00:00:00,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1515,Auto,Gut (starker Wind),10
+15809,Bundesstrasse,2018-06-28 00:00:00,83,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1028,Transporter,Gut,6
+15810,Landesstrasse,2018-06-21 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1910,Auto,Gut,6
+15811,nicht klassifiziert,2018-05-21 00:00:00,54,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,805,Fahrrad,Gut,5
+15812,nicht klassifiziert,2011-10-21 00:00:00,37,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,weiblich,2120,Auto,Gut,10
+15813,Bundesstrasse,2018-01-21 00:00:00,57,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,730,Auto,Gut,1
+15814,Autobahn,2018-02-01 00:00:00,43,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1420,Auto,Gut,2
+15815,nicht klassifiziert,2018-04-17 00:00:00,49,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1555,Bus,Gut,4
+15816,nicht klassifiziert,2018-09-06 00:00:00,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1250,Auto,Gut,9
+15817,nicht klassifiziert,2012-10-31 00:00:00,26,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,weiblich,1720,Auto,Regen,10
+15818,nicht klassifiziert,2018-11-04 00:00:00,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1010,Transporter,Gut,11
+15819,nicht klassifiziert,2018-01-29 00:00:00,27,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,1,Frost / Eis,weiblich,2110,Auto,Gut,1
+15820,nicht klassifiziert,2018-12-05 00:00:00,15,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,835,Auto,Gut,12
+15821,nicht klassifiziert,2018-02-07 00:00:00,57,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,männlich,150,Auto,Gut,2
+15822,nicht klassifiziert,2018-07-14 00:00:00,82,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1040,Bus,Gut,7
+15823,Bundesstrasse,2018-03-11 00:00:00,49,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,Frost / Eis,männlich,713,Transporter,Gut,3
+15824,nicht klassifiziert,2018-08-10 00:00:00,76,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1040,Auto,Regen,8
+15825,Landesstrasse,2018-11-17 00:00:00,31,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,1637,Auto,Regen (starker Wind),11
+15826,nicht klassifiziert,2018-02-28 00:00:00,38,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,trocken,männlich,2035,Auto,Gut,2
+15827,Bundesstrasse,2018-08-08 00:00:00,1,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1327,Auto,Gut,8
+15828,nicht klassifiziert,2018-11-15 00:00:00,25,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,745,Bus,Gut,11
+15829,Landesstrasse,2012-05-25 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1350,Auto,Gut,5
+15830,Landesstrasse,2018-06-21 00:00:00,61,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1256,Mottorrad (500cc),Gut,6
+15831,Landesstrasse,2011-03-24 00:00:00,31,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1830,Auto,Gut,3
+15832,Landesstrasse,2018-08-12 00:00:00,50,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1210,Bus,Gut,8
+15833,nicht klassifiziert,2018-06-27 00:00:00,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1650,Auto,Gut,6
+15834,Bundesstrasse,2018-07-03 00:00:00,38,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1918,Auto,Gut,7
+15835,Landesstrasse,2018-07-10 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1540,Transporter,Gut,7
+15836,Bundesstrasse,2018-05-20 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1855,Auto,Gut,5
+15837,Bundesstrasse,2018-02-16 00:00:00,55,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1350,Bus,Gut,2
+15838,nicht klassifiziert,2018-02-22 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1500,Auto,Gut,2
+15839,nicht klassifiziert,2018-09-18 00:00:00,47,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,935,Taxi,Gut,9
+15840,nicht klassifiziert,2018-07-20 00:00:00,25,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2045,Auto,Gut,7
+15841,Autobahn,2018-09-01 00:00:00,84,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1040,Auto,Gut,9
+15842,nicht klassifiziert,2012-10-05 00:00:00,8,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1520,Auto,Gut,10
+15843,nicht klassifiziert,2018-07-01 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1300,Fahrrad,Gut,7
+15844,Bundesstrasse,2012-12-28 00:00:00,42,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1148,Auto,Gut,12
+15845,nicht klassifiziert,2018-01-08 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,847,Auto,Gut,1
+15846,Bundesstrasse,2012-03-01 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,920,Transporter,Gut,3
+15847,Autobahn,2018-11-18 00:00:00,30,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1020,Auto,Regen,11
+15848,nicht klassifiziert,2018-02-23 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1915,Auto,Gut,2
+15849,nicht klassifiziert,2018-02-22 00:00:00,47,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1853,Auto,Gut,2
+15850,nicht klassifiziert,2018-07-07 00:00:00,27,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,weiblich,1140,Bus,Gut,7
+15851,nicht klassifiziert,2010-12-15 00:00:00,23,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,männlich,1815,Auto,Gut,12
+15852,nicht klassifiziert,2018-01-18 00:00:00,80,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1745,Auto,Gut,1
+15853,Bundesstrasse,2018-08-06 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1440,Auto,Gut,8
+15854,Landesstrasse,2018-10-06 00:00:00,50,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,945,Fahrrad,Gut,10
+15855,nicht klassifiziert,2018-11-23 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1935,Fahrrad,Gut,11
+15856,Bundesstrasse,2011-03-09 00:00:00,87,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1115,Auto,Gut (starker Wind),3
+15857,Bundesstrasse,2018-08-28 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1200,Auto,Gut,8
+15858,Bundesstrasse,2018-06-21 00:00:00,36,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,900,Auto,Gut,6
+15859,nicht klassifiziert,2018-03-07 00:00:00,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1931,Auto,Gut,3
+15860,nicht klassifiziert,2009-10-03 00:00:00,51,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1930,Auto,Gut (starker Wind),10
+15861,nicht klassifiziert,2018-07-01 00:00:00,51,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,1700,Mottorrad (500cc),Gut,7
+15862,nicht klassifiziert,2018-10-17 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,745,Auto,Gut,10
+15863,nicht klassifiziert,2018-04-04 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,nass / feucht,männlich,2130,Auto,Gut,4
+15864,Autobahn,2018-07-16 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,840,Auto,Gut,7
+15865,nicht klassifiziert,2010-03-07 00:00:00,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1315,Auto,Gut,3
+15866,Landesstrasse,2012-10-20 00:00:00,80,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1210,Bus,Gut,10
+15867,nicht klassifiziert,2018-06-04 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1640,Fahrrad,Gut,6
+15868,Autobahn,2018-01-03 00:00:00,39,Fahrer,Dunkelheit: keine Strassenbeleuchtung,3,2,nass / feucht,männlich,2025,Auto,Regen (starker Wind),1
+15869,nicht klassifiziert,2018-02-16 00:00:00,8,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1540,Auto,Gut,2
+15870,Bundesstrasse,2018-11-11 00:00:00,40,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,nass / feucht,männlich,405,Fahrrad,Gut,11
+15871,Bundesstrasse,2018-02-24 00:00:00,33,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1930,Auto,Gut,2
+15872,Bundesstrasse,2018-11-06 00:00:00,52,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,weiblich,2000,Auto,Gut,11
+15873,Bundesstrasse,2018-01-30 00:00:00,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,nass / feucht,männlich,1645,Auto,Gut (starker Wind),1
+15874,nicht klassifiziert,2011-10-07 00:00:00,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,755,Auto,Gut,10
+15875,Bundesstrasse,2018-08-10 00:00:00,25,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,2015,Auto,Gut,8
+15876,Bundesstrasse,2018-11-17 00:00:00,63,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,115,Auto,Regen,11
+15877,Bundesstrasse,2018-01-26 00:00:00,24,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1845,Mottorrad (50cc),Gut,1
+15878,nicht klassifiziert,2018-02-22 00:00:00,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,weiblich,200,Auto,Gut,2
+15879,nicht klassifiziert,2018-08-26 00:00:00,75,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,830,Bus,Gut,8
+15880,Autobahn,2018-09-21 00:00:00,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1110,Auto,Gut,9
+15881,Bundesstrasse,2018-08-31 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1930,Mottorrad (500cc),Gut,8
+15882,Bundesstrasse,2018-01-11 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1335,Auto,Gut,1
+15883,nicht klassifiziert,2018-11-09 00:00:00,17,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,15,Auto,Regen,11
+15884,Bundesstrasse,2018-08-05 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1605,Auto,Gut,8
+15885,Kraftfahrzeugstrasse,2018-04-07 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1303,Auto,Gut,4
+15886,nicht klassifiziert,2018-11-11 00:00:00,70,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1538,Mottorrad (500cc),Gut,11
+15887,Autobahn,2018-10-22 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,1240,Transporter,Andere,10
+15888,nicht klassifiziert,2018-06-04 00:00:00,51,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,920,Fahrrad,Gut,6
+15889,Landesstrasse,2018-08-30 00:00:00,40,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,325,Transporter,Gut,8
+15890,Bundesstrasse,2011-05-18 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1530,Fahrrad,Gut,5
+15891,Bundesstrasse,2018-11-21 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1335,Auto,Gut,11
+15892,nicht klassifiziert,2011-05-24 00:00:00,8,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1833,Fahrrad,Gut,5
+15893,nicht klassifiziert,2018-04-21 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1450,Auto,Gut,4
+15894,Bundesstrasse,2018-01-12 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1030,Auto,Gut,1
+15895,nicht klassifiziert,2018-08-01 00:00:00,30,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,5,2,trocken,männlich,2150,Auto,Gut,8
+15896,Bundesstrasse,2018-07-15 00:00:00,46,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,2200,Auto,Gut,7
+15897,nicht klassifiziert,2018-02-17 00:00:00,7,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,6,2,trocken,weiblich,1224,Auto,Gut,2
+15898,nicht klassifiziert,2010-05-10 00:00:00,11,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,750,Auto,Gut,5
+15899,Kraftfahrzeugstrasse,2018-04-30 00:00:00,67,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1215,Auto,Gut,4
+15900,nicht klassifiziert,2018-04-02 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,953,Bus,Gut,4
+15901,nicht klassifiziert,2018-07-05 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1810,Fahrrad,Gut,7
+15902,Bundesstrasse,2018-08-16 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,3,trocken,weiblich,1340,Auto,Gut,8
+15903,nicht klassifiziert,2018-01-01 00:00:00,44,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,55,Auto,Gut,1
+15904,nicht klassifiziert,2018-01-15 00:00:00,43,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1935,Auto,Gut,1
+15905,Bundesstrasse,2011-12-22 00:00:00,16,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1645,Mottorrad (50cc),Gut,12
+15906,nicht klassifiziert,2018-07-02 00:00:00,86,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1605,Andere,Gut,7
+15907,nicht klassifiziert,2018-09-12 00:00:00,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,656,Auto,Gut,9
+15908,Landesstrasse,2018-08-25 00:00:00,31,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,männlich,2140,Auto,Gut,8
+15909,Bundesstrasse,2018-09-25 00:00:00,18,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,weiblich,2345,Taxi,Regen (starker Wind),9
+15910,nicht klassifiziert,2018-09-18 00:00:00,61,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1405,Bus,Gut,9
+15911,Bundesstrasse,2018-04-28 00:00:00,51,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,748,Fahrrad,Unbekannt,4
+15912,Bundesstrasse,2018-12-06 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1115,Auto,Gut,12
+15913,Bundesstrasse,2011-12-17 00:00:00,51,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1310,Auto,Gut,12
+15914,nicht klassifiziert,2018-10-31 00:00:00,50,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und nicht beleuchtet,1,2,trocken,männlich,1635,Fahrrad,Gut,10
+15915,nicht klassifiziert,2009-12-18 00:00:00,54,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,Schnee,weiblich,2245,Bus,Schnee,12
+15916,nicht klassifiziert,2018-07-01 00:00:00,78,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1915,Andere,Gut,7
+15917,Landesstrasse,2018-02-18 00:00:00,21,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,2210,Auto,Gut,2
+15918,Bundesstrasse,2018-04-10 00:00:00,37,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1725,Fahrrad,Gut,4
+15919,nicht klassifiziert,2018-06-18 00:00:00,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,215,Kleinbus,Gut,6
+15920,Bundesstrasse,2018-08-28 00:00:00,16,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,weiblich,20,Auto,Regen,8
+15921,nicht klassifiziert,2018-03-09 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1245,Auto,Gut,3
+15922,Bundesstrasse,2010-03-26 00:00:00,22,Fahrer,Dunkelheit: keine Strassenbeleuchtung,3,2,trocken,männlich,2147,Auto,Gut,3
+15923,Bundesstrasse,2018-08-09 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,955,Auto,Gut,8
+15924,nicht klassifiziert,2018-11-03 00:00:00,69,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,815,Auto,Gut,11
+15925,Bundesstrasse,2018-02-28 00:00:00,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1158,Auto,Gut,2
+15926,Bundesstrasse,2018-10-02 00:00:00,54,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,940,Fahrrad,Gut,10
+15927,Bundesstrasse,2018-12-20 00:00:00,56,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,312,Auto,Gut,12
+15928,nicht klassifiziert,2018-01-12 00:00:00,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1020,Auto,Gut,1
+15929,nicht klassifiziert,2018-04-03 00:00:00,48,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1250,Fahrrad,Gut,4
+15930,Autobahn,2018-07-08 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,4,nass / feucht,weiblich,1545,Auto,Regen,7
+15931,Bundesstrasse,2018-08-15 00:00:00,23,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,trocken,männlich,2239,Auto,Gut,8
+15932,Bundesstrasse,2010-03-11 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1710,Auto,Gut,3
+15933,nicht klassifiziert,2011-10-27 00:00:00,48,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1230,Andere,Gut,10
+15934,nicht klassifiziert,2018-04-11 00:00:00,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1300,Auto,Gut,4
+15935,Bundesstrasse,2018-06-08 00:00:00,41,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1600,Auto,Gut,6
+15936,Autobahn,2018-06-18 00:00:00,53,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1505,Auto,Gut,6
+15937,nicht klassifiziert,2012-10-19 00:00:00,46,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,weiblich,1845,Auto,Gut,10
+15938,nicht klassifiziert,2018-01-05 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1050,Auto,Gut (starker Wind),1
+15939,Bundesstrasse,2018-08-25 00:00:00,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1131,Auto,Gut,8
+15940,nicht klassifiziert,2018-09-27 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,806,Fahrrad,Gut,9
+15941,Bundesstrasse,2018-11-23 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,945,Mottorrad (50cc),Gut,11
+15942,Bundesstrasse,2011-03-29 00:00:00,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1048,Bus,Gut,3
+15943,nicht klassifiziert,2018-02-24 00:00:00,43,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1145,Auto,Gut,2
+15944,Bundesstrasse,2018-09-18 00:00:00,33,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1800,Transporter,Gut,9
+15945,Bundesstrasse,2010-10-05 00:00:00,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1550,Fahrrad,Gut,10
+15946,nicht klassifiziert,2009-05-23 00:00:00,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1930,Mottorrad (50cc),Gut,5
+15947,nicht klassifiziert,2018-04-07 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1815,Auto,Gut,4
+15948,Landesstrasse,2018-07-19 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Fahrrad,Gut,7
+15949,nicht klassifiziert,2018-11-06 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1010,Auto,Regen,11
+15950,Bundesstrasse,2010-05-19 00:00:00,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,4,trocken,männlich,1905,Auto,Gut,5
+15951,Bundesstrasse,2012-05-17 00:00:00,44,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,weiblich,1805,Auto,Gut,5
+15952,nicht klassifiziert,2011-12-19 00:00:00,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,nass / feucht,männlich,1340,Transporter,Gut,12
+15953,nicht klassifiziert,2018-08-06 00:00:00,86,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1320,Auto,Gut,8
+15954,Bundesstrasse,2018-07-31 00:00:00,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,11,2,trocken,männlich,1940,Bus,Gut,7
+15955,Kraftfahrzeugstrasse,2018-02-16 00:00:00,24,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,weiblich,1933,Auto,Gut,2
+15956,Bundesstrasse,2011-03-26 00:00:00,64,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1125,Auto,Gut,3
+15957,nicht klassifiziert,2018-08-12 00:00:00,5,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1850,Auto,Gut,8
+15958,nicht klassifiziert,2018-09-29 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,850,Auto,Gut,9
+15959,nicht klassifiziert,2018-01-13 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,Frost/ Ice,männlich,1350,Auto,Andere,1
+15960,Bundesstrasse,2018-11-10 00:00:00,32,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1230,Bus,Gut,11
+15961,nicht klassifiziert,2012-10-05 00:00:00,46,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,1700,Transporter,Gut,10
+15962,nicht klassifiziert,2018-06-14 00:00:00,20,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,1,trocken,männlich,205,Auto,Gut,6
+15963,Bundesstrasse,2018-01-21 00:00:00,20,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1820,Auto,Regen (starker Wind),1
+15964,Bundesstrasse,2018-07-30 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1940,Auto,Gut,7
+15965,nicht klassifiziert,2018-05-30 00:00:00,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1125,Auto,Gut,5
+15966,Bundesstrasse,2018-07-23 00:00:00,32,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,2255,Mottorrad (50cc),Gut,7
+15967,nicht klassifiziert,2018-11-25 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,748,Fahrrad,Gut,11
+15968,Bundesstrasse,2018-09-30 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,940,Fahrrad,Gut,9
+15969,Landesstrasse,2018-05-31 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,2016,Auto,Gut,5
+15970,Bundesstrasse,2018-01-18 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,Frost / Eis,weiblich,900,Auto,Gut,1
+15971,Bundesstrasse,2009-05-04 00:00:00,44,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,945,Auto,Gut,5
+15972,nicht klassifiziert,2018-07-22 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,823,Auto,Gut,7
+15973,Autobahn,2011-05-04 00:00:00,65,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,4,trocken,weiblich,937,Auto,Gut,5
+15974,nicht klassifiziert,2009-10-13 00:00:00,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1820,Taxi,Gut,10
+15975,nicht klassifiziert,2018-04-12 00:00:00,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1820,Auto,Gut,4
+15976,nicht klassifiziert,2018-11-08 00:00:00,40,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,950,Transporter,Gut,11
+15977,Bundesstrasse,2018-10-27 00:00:00,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,957,Auto,Gut,10
+15978,nicht klassifiziert,2012-10-06 00:00:00,40,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,1,trocken,männlich,523,Auto,Gut,10
+15979,Bundesstrasse,2018-11-25 00:00:00,18,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,3,nass / feucht,männlich,1550,Auto,Gut,11
+15980,nicht klassifiziert,2012-05-15 00:00:00,14,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1600,Auto,Gut,5
+15981,Bundesstrasse,2018-07-14 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,1018,Fahrrad,Gut,7
+15982,Bundesstrasse,2011-12-28 00:00:00,56,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,939,Auto,Gut (starker Wind),12
+15983,nicht klassifiziert,2018-10-11 00:00:00,43,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,männlich,35,Taxi,Gut,10
+15984,Bundesstrasse,2011-12-04 00:00:00,57,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,945,Fahrrad,Regen (starker Wind),12
+15985,nicht klassifiziert,2018-11-20 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1350,Auto,Gut,11
+15986,nicht klassifiziert,2018-11-25 00:00:00,16,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1320,Mottorrad,Gut,11
+15987,Bundesstrasse,2018-12-22 00:00:00,10,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,nass / feucht,männlich,1756,Auto,Gut (starker Wind),12
+15988,nicht klassifiziert,2010-10-03 00:00:00,16,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,1,nass / feucht,weiblich,1350,Auto,Regen,10
+15989,nicht klassifiziert,2018-02-07 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,weiblich,1724,Auto,Gut,2
+15990,Bundesstrasse,2010-03-10 00:00:00,35,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,trocken,männlich,2200,Taxi,Gut,3
+15991,nicht klassifiziert,2018-08-29 00:00:00,13,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1355,Auto,Gut,8
+15992,nicht klassifiziert,2018-02-22 00:00:00,50,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1705,Auto,Gut,2
+15993,Bundesstrasse,2018-07-20 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,510,Auto,Gut,7
+15994,nicht klassifiziert,2018-08-30 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1830,Auto,Gut,8
+15995,Bundesstrasse,2009-03-01 00:00:00,60,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1530,Mottorrad (50cc),Gut,3
+15996,nicht klassifiziert,2009-03-03 00:00:00,8,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1305,Auto,Regen,3
+15997,nicht klassifiziert,2018-03-10 00:00:00,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1420,Transporter,Gut,3
+15998,Landesstrasse,2018-10-16 00:00:00,82,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1510,Auto,Regen,10
+15999,nicht klassifiziert,2018-07-05 00:00:00,18,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1745,Auto,Gut,7
+16000,Bundesstrasse,2018-12-18 00:00:00,34,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1651,Auto,Regen,12
+16001,nicht klassifiziert,2018-04-22 00:00:00,18,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1415,Auto,Gut,4
+16002,nicht klassifiziert,2011-10-05 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,1825,Auto,Gut,10
+16003,nicht klassifiziert,2018-01-19 00:00:00,49,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1750,Taxi,Regen,1
+16004,Bundesstrasse,2018-08-18 00:00:00,92,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1945,Auto,Gut,8
+16005,nicht klassifiziert,2018-11-10 00:00:00,27,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,trocken,männlich,2200,Auto,Gut,11
+16006,Bundesstrasse,2012-03-20 00:00:00,68,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,weiblich,1730,Auto,Gut,3
+16007,nicht klassifiziert,2018-02-19 00:00:00,3,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1535,Auto,Gut,2
+16008,nicht klassifiziert,2018-11-09 00:00:00,33,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1144,Kleinbus,Gut,11
+16009,Landesstrasse,2018-02-11 00:00:00,65,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,935,Bus,Gut,2
+16010,Landesstrasse,2018-08-11 00:00:00,64,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1400,Auto,Gut,8
+16011,nicht klassifiziert,2018-04-29 00:00:00,45,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,830,Auto,Gut,4
+16012,Bundesstrasse,2018-11-29 00:00:00,33,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1800,Auto,Gut,11
+16013,Bundesstrasse,2018-06-16 00:00:00,57,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1655,Auto,Gut,6
+16014,nicht klassifiziert,2018-04-26 00:00:00,32,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,trocken,männlich,1530,Taxi,Gut,4
+16015,nicht klassifiziert,2018-04-11 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1557,Mottorrad (500cc),Gut,4
+16016,Bundesstrasse,2018-10-21 00:00:00,72,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1650,Auto,Gut,10
+16017,Bundesstrasse,2018-04-17 00:00:00,19,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2125,Auto,Gut (starker Wind),4
+16018,Bundesstrasse,2018-09-30 00:00:00,52,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1437,Auto,Gut,9
+16019,Bundesstrasse,2018-02-06 00:00:00,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,900,Mottorrad (50cc),Gut,2
+16020,Bundesstrasse,2018-10-04 00:00:00,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1114,Auto,Gut,10
+16021,Bundesstrasse,2018-02-25 00:00:00,38,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,weiblich,1920,Auto,Gut,2
+16022,Bundesstrasse,2018-01-16 00:00:00,53,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,100,Auto,Gut,1
+16023,nicht klassifiziert,2012-12-05 00:00:00,30,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1920,Fahrrad,Gut,12
+16024,Bundesstrasse,2010-12-05 00:00:00,29,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,Frost/ Ice,weiblich,905,Auto,Gut,12
+16025,nicht klassifiziert,2018-04-28 00:00:00,23,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1423,Auto,Gut,4
+16026,nicht klassifiziert,2012-12-12 00:00:00,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1210,Bus,Gut,12
+16027,Bundesstrasse,2018-02-04 00:00:00,13,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1619,Bus,Gut,2
+16028,Bundesstrasse,2011-12-04 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,nass / feucht,weiblich,945,Auto,Gut,12
+16029,nicht klassifiziert,2018-07-17 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1530,Auto,Regen,7
+16030,Bundesstrasse,2018-08-31 00:00:00,31,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2120,Auto,Gut,8
+16031,nicht klassifiziert,2012-05-25 00:00:00,37,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Transporter,Gut,5
+16032,Autobahn,2018-11-03 00:00:00,55,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,957,Auto,Gut,11
+16033,nicht klassifiziert,2018-11-05 00:00:00,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,2,nass / feucht,männlich,18,Auto,Gut,11
+16034,Autobahn,2009-12-04 00:00:00,28,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1015,Auto,Gut,12
+16035,Bundesstrasse,2018-02-15 00:00:00,18,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1803,Auto,Regen,2
+16036,nicht klassifiziert,2011-05-12 00:00:00,68,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1650,Auto,Gut (starker Wind),5
+16037,nicht klassifiziert,2018-06-11 00:00:00,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1330,Auto,Gut,6
+16038,nicht klassifiziert,2009-10-17 00:00:00,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2245,Mottorrad (50cc),Gut,10
+16039,Bundesstrasse,2018-03-28 00:00:00,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,männlich,1025,Auto,Gut,3
+16040,nicht klassifiziert,2009-12-09 00:00:00,26,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,3,nass / feucht,weiblich,1553,Auto,Gut,12
+16041,Bundesstrasse,2018-09-12 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1446,Auto,Gut,9
+16042,Autobahn,2018-09-20 00:00:00,17,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,nass / feucht,weiblich,712,Auto,Regen,9
+16043,Bundesstrasse,2018-02-08 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,1545,Auto,Gut,2
+16044,Landesstrasse,2018-07-30 00:00:00,52,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,700,Mottorrad (50cc),Regen,7
+16045,nicht klassifiziert,2018-11-25 00:00:00,52,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,weiblich,1915,Auto,Gut,11
+16046,nicht klassifiziert,2018-07-20 00:00:00,32,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,230,Taxi,Gut,7
+16047,Autobahn,2018-06-07 00:00:00,61,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1700,Auto,Gut,6
+16048,nicht klassifiziert,2018-07-24 00:00:00,8,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1915,Auto,Gut,7
+16049,Bundesstrasse,2018-03-25 00:00:00,23,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,810,Auto,Gut,3
+16050,Autobahn,2010-10-01 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1734,Auto,Regen (starker Wind),10
+16051,nicht klassifiziert,2018-06-19 00:00:00,23,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,6,2,trocken,männlich,2106,Taxi,Gut,6
+16052,Bundesstrasse,2018-06-12 00:00:00,26,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,männlich,830,Fahrrad,Gut,6
+16053,nicht klassifiziert,2011-12-03 00:00:00,31,Fussgänger,Dunkelheit: keine Strassenbeleuchtung,1,2,trocken,weiblich,1730,Auto,Gut,12
+16054,nicht klassifiziert,2010-12-08 00:00:00,3,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,nass / feucht,männlich,1630,Auto,Gut,12
+16055,Bundesstrasse,2018-11-03 00:00:00,38,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,weiblich,2042,Auto,Gut,11
+16056,Kraftfahrzeugstrasse,2018-11-15 00:00:00,36,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,Frost/ Ice,männlich,435,Auto,Gut,11
+16057,Bundesstrasse,2018-09-02 00:00:00,32,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1225,Auto,Gut,9
+16058,Bundesstrasse,2018-11-06 00:00:00,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,3,nass / feucht,männlich,840,Auto,Regen,11
+16059,nicht klassifiziert,2018-08-15 00:00:00,87,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1340,Bus,Gut,8
+16060,nicht klassifiziert,2018-09-22 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1800,Fahrrad,Gut,9
+16061,Bundesstrasse,2018-06-03 00:00:00,27,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,3,trocken,männlich,2120,Auto,Gut,6
+16062,nicht klassifiziert,2018-09-02 00:00:00,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1130,Auto,Gut,9
+16063,nicht klassifiziert,2012-05-01 00:00:00,48,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,810,Auto,Gut,5
+16064,Bundesstrasse,2018-01-02 00:00:00,15,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,1723,Auto,Gut,1
+16065,nicht klassifiziert,2018-07-11 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1930,Auto,Gut,7
+16066,Bundesstrasse,2010-10-19 00:00:00,15,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1850,Auto,Gut,10
+16067,Bundesstrasse,2012-05-30 00:00:00,31,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,840,Fahrrad,Gut,5
+16068,nicht klassifiziert,2009-12-31 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1330,Auto,Gut,12
+16069,Bundesstrasse,2018-11-04 00:00:00,24,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1650,Auto,Regen,11
+16070,Bundesstrasse,2018-06-03 00:00:00,16,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,2235,Auto,Gut,6
+16071,Bundesstrasse,2018-11-11 00:00:00,19,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,1634,Auto,Gut,11
+16072,Landesstrasse,2018-06-04 00:00:00,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1650,Mottorrad (500cc),Gut,6
+16073,Bundesstrasse,2018-01-30 00:00:00,53,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,weiblich,2000,Auto,Gut,1
+16074,Landesstrasse,2018-04-09 00:00:00,23,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1815,Auto,Gut,4
+16075,nicht klassifiziert,2018-12-13 00:00:00,62,Passagier,Dunkelheit: keine Strassenbeleuchtung,3,2,nass / feucht,männlich,1640,Auto,Gut,12
+16076,nicht klassifiziert,2018-07-06 00:00:00,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,männlich,2130,Auto,Gut,7
+16077,nicht klassifiziert,2011-03-09 00:00:00,38,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,weiblich,1805,Auto,Gut,3
+16078,nicht klassifiziert,2018-04-02 00:00:00,12,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,818,Auto,Nebel,4
+16079,nicht klassifiziert,2012-12-20 00:00:00,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1512,Auto,Gut,12
+16080,Bundesstrasse,2018-08-23 00:00:00,25,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,8,2,trocken,weiblich,45,Auto,Gut,8
+16081,nicht klassifiziert,2011-12-21 00:00:00,33,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,900,Auto,Gut,12
+16082,Bundesstrasse,2018-07-04 00:00:00,51,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,4,2,trocken,weiblich,1516,Auto,Gut,7
+16083,Bundesstrasse,2018-04-30 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1200,Auto,Gut,4
+16084,nicht klassifiziert,2011-05-10 00:00:00,51,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1605,Mottorrad,Gut,5
+16085,nicht klassifiziert,2018-07-23 00:00:00,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,1900,Auto,Gut,7
+16086,Landesstrasse,2011-03-07 00:00:00,81,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1105,Bus,Gut,3
+16087,Bundesstrasse,2018-09-29 00:00:00,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,840,Mottorrad (50cc),Regen,9
+16088,nicht klassifiziert,2018-02-15 00:00:00,20,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,2225,Auto,Gut,2
+16089,nicht klassifiziert,2018-08-14 00:00:00,23,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1144,Bus,Gut,8
+16090,nicht klassifiziert,2018-02-12 00:00:00,16,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,1745,Mottorrad,Gut,2
+16091,nicht klassifiziert,2018-05-13 00:00:00,70,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,männlich,950,Auto,Gut,5
+16092,nicht klassifiziert,2018-06-27 00:00:00,22,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,333,Auto,Gut,6
+16093,nicht klassifiziert,2018-01-07 00:00:00,71,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,1155,Auto,Regen (starker Wind),1
+16094,Bundesstrasse,2018-07-16 00:00:00,39,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1330,Auto,Gut,7
+16095,Bundesstrasse,2018-06-16 00:00:00,67,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,2,trocken,männlich,1850,Auto,Gut,6
+16096,Bundesstrasse,2018-09-17 00:00:00,22,Passagier,Dunkelheit: keine Strassenbeleuchtung,4,1,trocken,männlich,215,Auto,Gut,9
+16097,nicht klassifiziert,2018-01-06 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1445,Auto,Gut,1
+16098,Bundesstrasse,2018-01-04 00:00:00,85,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,1015,Auto,Gut (starker Wind),1
+16099,nicht klassifiziert,2018-06-22 00:00:00,32,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,3,3,trocken,männlich,1700,Auto,Gut,6
+16100,Autobahn,2018-07-28 00:00:00,38,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1419,Auto,Gut,7
+16101,Bundesstrasse,2009-10-18 00:00:00,62,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1330,Auto,Gut,10
+16102,nicht klassifiziert,2018-11-24 00:00:00,11,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,1620,Auto,Gut,11
+16103,nicht klassifiziert,2018-06-25 00:00:00,8,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1600,Fahrrad,Gut,6
+16104,Bundesstrasse,2018-09-29 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,710,Fahrrad,Gut,9
+16105,nicht klassifiziert,2018-11-29 00:00:00,42,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,130,Fahrrad,Gut,11
+16106,Bundesstrasse,2012-10-10 00:00:00,68,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1040,Bus,Gut,10
+16107,nicht klassifiziert,2018-04-25 00:00:00,47,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1530,Auto,Gut,4
+16108,nicht klassifiziert,2018-02-01 00:00:00,39,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1110,Auto,Gut,2
+16109,Bundesstrasse,2018-05-09 00:00:00,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,5,trocken,männlich,1350,Auto,Gut,5
+16110,Bundesstrasse,2010-03-09 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,815,Auto,Gut,3
+16111,nicht klassifiziert,2018-06-18 00:00:00,15,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,805,Auto,Gut,6
+16112,Bundesstrasse,2018-09-20 00:00:00,69,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,weiblich,1442,Bus,Gut,9
+16113,Bundesstrasse,2018-10-27 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1700,Auto,Gut,10
+16114,Bundesstrasse,2018-08-19 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1730,Mottorrad,Gut,8
+16115,Bundesstrasse,2009-12-24 00:00:00,45,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,Frost / Eis,weiblich,1715,Auto,Nebel,12
+16116,nicht klassifiziert,2009-10-20 00:00:00,25,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,nass / feucht,männlich,1835,Auto,Gut,10
+16117,Bundesstrasse,2018-04-12 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1230,Auto,Gut,4
+16118,nicht klassifiziert,2018-12-13 00:00:00,77,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,3,1,nass / feucht,weiblich,1640,Bus,Gut,12
+16119,Bundesstrasse,2018-06-01 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1710,Mottorrad (50cc),Gut,6
+16120,Landesstrasse,2018-11-20 00:00:00,43,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,männlich,1705,Fahrrad,Gut,11
+16121,Bundesstrasse,2018-11-20 00:00:00,1,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1015,Auto,Gut,11
+16122,Bundesstrasse,2018-06-05 00:00:00,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,3,trocken,weiblich,1207,Auto,Gut,6
+16123,nicht klassifiziert,2012-10-26 00:00:00,26,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1100,Auto,Gut,10
+16124,nicht klassifiziert,2018-08-13 00:00:00,67,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1400,Auto,Gut,8
+16125,Bundesstrasse,2012-12-11 00:00:00,56,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,4,2,nass / feucht,männlich,1309,Transporter,Gut,12
+16126,nicht klassifiziert,2018-01-06 00:00:00,4,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,weiblich,1805,Auto,Gut,1
+16127,Bundesstrasse,2018-05-17 00:00:00,30,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,männlich,1750,Auto,Gut,5
+16128,Bundesstrasse,2018-03-21 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1507,Mottorrad,Gut,3
+16129,nicht klassifiziert,2018-06-21 00:00:00,90,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1345,Auto,Gut,6
+16130,nicht klassifiziert,2010-10-21 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1050,Mottorrad (50cc),Gut,10
+16131,nicht klassifiziert,2018-06-09 00:00:00,78,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1355,Bus,Gut,6
+16132,nicht klassifiziert,2018-10-27 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,1147,Auto,Gut (starker Wind),10
+16133,Autobahn,2018-11-05 00:00:00,80,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,3,nass / feucht,weiblich,1730,Auto,Regen,11
+16134,Bundesstrasse,2010-03-10 00:00:00,16,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,6,2,trocken,männlich,2200,Auto,Gut,3
+16135,nicht klassifiziert,2018-11-20 00:00:00,49,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,853,Fahrrad,Gut,11
+16136,Bundesstrasse,2018-09-25 00:00:00,32,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,nass / feucht,männlich,2345,Taxi,Regen (starker Wind),9
+16137,nicht klassifiziert,2018-02-16 00:00:00,79,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1615,Auto,Gut,2
+16138,nicht klassifiziert,2010-10-03 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,5,1,nass / feucht,männlich,1350,Auto,Regen,10
+16139,nicht klassifiziert,2011-10-08 00:00:00,25,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,5,2,trocken,männlich,1425,Auto,Gut,10
+16140,Bundesstrasse,2018-02-08 00:00:00,59,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,730,Mottorrad (125cc),Gut,2
+16141,nicht klassifiziert,2018-09-08 00:00:00,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1332,Mottorrad (125cc),Gut,9
+16142,nicht klassifiziert,2018-05-06 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1930,Auto,Unbekannt,5
+16143,nicht klassifiziert,2011-12-13 00:00:00,34,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,840,Auto,Gut,12
+16144,nicht klassifiziert,2018-08-10 00:00:00,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1252,Mottorrad,Gut,8
+16145,Autobahn,2018-06-24 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,6,7,trocken,männlich,1701,Auto,Gut,6
+16146,Bundesstrasse,2018-07-25 00:00:00,25,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1321,Auto,Gut,7
+16147,nicht klassifiziert,2011-12-12 00:00:00,19,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2145,Auto,Gut,12
+16148,Landesstrasse,2018-06-08 00:00:00,13,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,950,Fahrrad,Gut,6
+16149,Bundesstrasse,2010-12-21 00:00:00,22,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1400,Auto,Gut,12
+16150,Bundesstrasse,2011-05-30 00:00:00,46,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,männlich,1630,Auto,Gut,5
+16151,Bundesstrasse,2018-11-19 00:00:00,41,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,840,Fahrrad,Gut,11
+16152,nicht klassifiziert,2018-02-19 00:00:00,23,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,4,2,trocken,männlich,2040,Auto,Gut,2
+16153,nicht klassifiziert,2018-08-07 00:00:00,21,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,weiblich,935,Taxi,Regen,8
+16154,nicht klassifiziert,2018-07-07 00:00:00,48,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1115,LKW bis 7.5t,Gut,7
+16155,Bundesstrasse,2018-02-18 00:00:00,24,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,weiblich,850,Auto,Regen,2
+16156,Kraftfahrzeugstrasse,2011-12-06 00:00:00,60,Fahrer,Dunkelheit: keine Strassenbeleuchtung,1,3,nass / feucht,weiblich,1825,Auto,Regen,12
+16157,Autobahn,2018-02-22 00:00:00,29,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2142,LKW ab 7.5t,Gut (starker Wind),2
+16158,nicht klassifiziert,2011-03-05 00:00:00,19,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2300,Mottorrad,Regen (starker Wind),3
+16159,nicht klassifiziert,2018-06-10 00:00:00,12,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,1515,Auto,Gut,6
+16160,Bundesstrasse,2009-03-06 00:00:00,19,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1410,Auto,Gut,3
+16161,Bundesstrasse,2018-01-10 00:00:00,44,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,2015,Auto,Gut,1
+16162,nicht klassifiziert,2018-04-21 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1845,Fahrrad,Gut,4
+16163,Kraftfahrzeugstrasse,2009-12-12 00:00:00,60,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1505,Auto,Gut,12
+16164,Landesstrasse,2018-04-29 00:00:00,56,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,1715,Fahrrad,Gut,4
+16165,nicht klassifiziert,2018-01-26 00:00:00,25,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,nass / feucht,männlich,1829,Auto,Gut,1
+16166,Bundesstrasse,2018-08-23 00:00:00,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1130,Bus,Gut,8
+16167,nicht klassifiziert,2018-08-06 00:00:00,22,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,2040,Auto,Gut,8
+16168,nicht klassifiziert,2018-06-29 00:00:00,30,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,männlich,1632,Auto,Gut,6
+16169,Bundesstrasse,2018-07-29 00:00:00,23,Fussgänger,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,1,trocken,männlich,2228,Auto,Gut,7
+16170,nicht klassifiziert,2012-12-16 00:00:00,18,Fussgänger,Dunkelheit: Strassenbeleuchtung unbekannt,1,1,trocken,männlich,308,Auto,Gut,12
+16171,Bundesstrasse,2012-03-07 00:00:00,38,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,2000,Auto,Gut,3
+16172,Bundesstrasse,2018-11-13 00:00:00,42,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,3,2,nass / feucht,männlich,1354,Auto,Gut,11
+16173,nicht klassifiziert,2018-08-31 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1458,97,Gut,8
+16174,nicht klassifiziert,2010-10-20 00:00:00,7,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,840,Auto,Gut,10
+16175,nicht klassifiziert,2010-12-17 00:00:00,28,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,weiblich,1800,Taxi,Gut,12
+16176,nicht klassifiziert,2012-03-13 00:00:00,32,Passagier,Dunkelheit: keine Strassenbeleuchtung,3,1,trocken,männlich,100,Auto,Gut,3
+16177,nicht klassifiziert,2018-08-04 00:00:00,76,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1230,Auto,Gut,8
+16178,Bundesstrasse,2009-12-04 00:00:00,39,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1411,Auto,Gut,12
+16179,Bundesstrasse,2018-09-10 00:00:00,23,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,2,1,trocken,weiblich,1150,Auto,Gut,9
+16180,nicht klassifiziert,2018-02-17 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,1215,Fahrrad,Gut,2
+16181,Bundesstrasse,2018-06-26 00:00:00,54,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,812,Auto,Gut,6
+16182,nicht klassifiziert,2011-03-31 00:00:00,82,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,männlich,950,Bus,Gut,3
+16183,nicht klassifiziert,2018-02-08 00:00:00,24,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,3,nass / feucht,männlich,2309,Auto,Gut,2
+16184,Landesstrasse,2018-08-02 00:00:00,22,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,nass / feucht,weiblich,400,Auto,Gut,8
+16185,Bundesstrasse,2009-05-11 00:00:00,34,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1140,Bus,Gut,5
+16186,Bundesstrasse,2018-11-17 00:00:00,35,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,830,Auto,Gut,11
+16187,Bundesstrasse,2018-07-07 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1635,Auto,Gut,7
+16188,nicht klassifiziert,2018-01-22 00:00:00,29,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,männlich,2000,Auto,Unbekannt,1
+16189,nicht klassifiziert,2018-04-07 00:00:00,71,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1115,Bus,Gut,4
+16190,nicht klassifiziert,2011-03-30 00:00:00,16,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,845,Mottorrad,Gut,3
+16191,Bundesstrasse,2018-11-26 00:00:00,19,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,2,trocken,männlich,145,Auto,Gut,11
+16192,nicht klassifiziert,2009-10-20 00:00:00,18,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,2215,Auto,Gut,10
+16193,nicht klassifiziert,2018-04-02 00:00:00,16,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,3,2,trocken,männlich,1800,Auto,Gut,4
+16194,nicht klassifiziert,2018-06-02 00:00:00,21,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,2047,Auto,Gut,6
+16195,nicht klassifiziert,2018-08-14 00:00:00,51,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,2,2,trocken,weiblich,1805,Auto,Gut,8
+16196,nicht klassifiziert,2018-09-07 00:00:00,29,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,weiblich,935,Auto,Gut,9
+16197,Bundesstrasse,2018-06-16 00:00:00,27,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,2055,Auto,Gut,6
+16198,Bundesstrasse,2009-03-06 00:00:00,15,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,männlich,1545,Auto,Gut,3
+16199,Bundesstrasse,2018-06-14 00:00:00,17,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,weiblich,1345,Auto,Gut,6
+16200,nicht klassifiziert,2018-06-27 00:00:00,4,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,trocken,weiblich,1520,Auto,Gut,6
+16201,Bundesstrasse,2009-12-26 00:00:00,34,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1800,Auto,Gut,12
+16202,Bundesstrasse,2011-12-22 00:00:00,45,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,nass / feucht,männlich,1500,Mottorrad (500cc),Gut,12
+16203,Bundesstrasse,2009-05-05 00:00:00,19,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,nass / feucht,weiblich,745,Auto,Regen,5
+16204,Bundesstrasse,2009-10-31 00:00:00,72,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1125,Auto,Gut,10
+16205,Bundesstrasse,2018-11-04 00:00:00,13,Passagier,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,1830,Auto,Gut,11
+16206,nicht klassifiziert,2010-12-04 00:00:00,24,Passagier,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,2,1,Schnee,männlich,340,Taxi,Gut,12
+16207,Bundesstrasse,2018-09-25 00:00:00,63,Fahrer,Dunkelheit: Strassenbeleuchtung unbekannt,1,2,trocken,weiblich,2315,Auto,Gut,9
+16208,Bundesstrasse,2018-09-30 00:00:00,21,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1451,Fahrrad,Gut,9
+16209,Bundesstrasse,2018-08-25 00:00:00,2,Passagier,Tageslicht: Strassenbeleuchtung vorhanden,2,2,trocken,männlich,1131,Auto,Gut,8
+16210,nicht klassifiziert,2018-01-17 00:00:00,60,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1036,Auto,Gut,1
+16211,Bundesstrasse,2012-12-30 00:00:00,34,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,2,3,trocken,weiblich,1444,Auto,Gut,12
+16212,nicht klassifiziert,2009-10-21 00:00:00,13,Fussgänger,Tageslicht: Strassenbeleuchtung vorhanden,1,1,nass / feucht,weiblich,805,Auto,Gut,10
+16213,nicht klassifiziert,2010-05-03 00:00:00,33,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1910,Bus,Gut,5
+16214,Bundesstrasse,2018-01-29 00:00:00,37,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,850,Fahrrad,Gut,1
+16215,Bundesstrasse,2018-01-30 00:00:00,35,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1823,Mottorrad (500cc),Gut,1
+16216,Bundesstrasse,2018-06-25 00:00:00,28,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,2115,Auto,Gut,6
+16217,Bundesstrasse,2010-12-17 00:00:00,58,Fahrer,Dunkelheit: Strassenbeleuchtung vorhanden und beleuchtet,1,2,trocken,männlich,1745,Auto,Gut,12
+16218,nicht klassifiziert,2018-05-02 00:00:00,20,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1250,Fahrrad,Gut,5
+16219,nicht klassifiziert,2018-08-22 00:00:00,18,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1550,Mottorrad (50cc),Gut,8
+16220,Bundesstrasse,2018-08-25 00:00:00,38,Fahrer,Tageslicht: Strassenbeleuchtung vorhanden,1,2,trocken,männlich,1738,Fahrrad,Gut,8
